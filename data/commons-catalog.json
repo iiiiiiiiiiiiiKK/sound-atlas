@@ -1,0 +1,2074 @@
+{
+ "generatedAt": "2026-11-08T12:46:39.915Z",
+ "source": "Wikimedia Commons (action=query API)",
+ "licensePolicy": "Only CC0, Public Domain, CC BY and CC BY-SA recordings are included. Each record keeps its author, licence and original file page.",
+ "count": 54,
+ "entries": [
+  {
+   "id": "commons-1-minute-silvester-at-2-30-am-in-berlin-32e0c771",
+   "source": "commons",
+   "title": "1 minute silvester at 2 30 am in berlin",
+   "description": "Title 1 Minute Silvester at 2-30 AM in Berlin Artist thore Original mp3 data Length:1:00 minutes (2.29 MB) Format:MP3 Stereo 44kHz 320Kbps (CBR) User tags crackling, Delay, Firework, Fireworks, Party, People, Rockets, shouting, silvester, Street, Sylvester Type Natural, Characteristic, Human PDSounds record number 414 Comment Silvester 2007/08 Berlin Weinbergsweg. 2:30AM. Ambience and Firework. Re",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/58/1_minute_silvester_at_2_30_am_in_berlin.ogg/1_minute_silvester_at_2_30_am_in_berlin.ogg.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:1_minute_silvester_at_2_30_am_in_berlin.ogg",
+   "mime": "application/ogg",
+   "bytes": 1783004,
+   "durationSec": 60,
+   "licence": {
+    "code": "public domain",
+    "url": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "attributionRequired": false,
+    "shareAlike": false
+   },
+   "author": "thore",
+   "credit": "http://www.pdsounds.org/audio/download/414/1+Minute+Silvester+at+2-30+AM+in+Berlin.mp3 PDSounds description: http://www.pdsounds.org/sounds/1_minute_silvester_at_2_30_am_in_berlin Transferred by Fæ",
+   "categories": [
+    "PD-author",
+    "PDsounds.org",
+    "Audio files of Berlin",
+    "Audio files of fireworks",
+    "Sound files uploaded by Fæ"
+   ],
+   "keywords": "1 minute silvester at 2 30 am in berlin title 1 minute silvester at 2-30 am in berlin artist thore original mp3 data length:1:00 minutes (2.29 mb) format:mp3 stereo 44khz 320kbps (cbr) user tags crackling, delay, firework, fireworks, party, people, rockets, shouting, silvester, street, sylvester type natural, characteristic, human pdsounds record number 414 comment silvester 2007/08 berlin weinbergsweg. 2:30am. ambience and firework. re pd-author pdsounds.org audio files of berlin audio files of fireworks sound files uploaded by fæ category:audio files of berlin",
+   "soundCategory": "human",
+   "place": {
+    "name": "Berlin",
+    "country": "Germany",
+    "lat": 52.52,
+    "lon": 13.405,
+    "precision": "city"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  },
+  {
+   "id": "commons-141990-lg-christmas-market-neptunbrunnen-03-111223-28fdfe79",
+   "source": "commons",
+   "title": "141990 lg christmas market neptunbrunnen 03 111223",
+   "description": "Field-recording at the Neptunbrunnen Christmas market in Berlin, Germany, 2011. Sounds of people having fun. Sony PCM-D50",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/cc/141990_lg_christmas-market-neptunbrunnen-03-111223.wav/141990_lg_christmas-market-neptunbrunnen-03-111223.wav.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:141990_lg_christmas-market-neptunbrunnen-03-111223.wav",
+   "mime": "audio/wav",
+   "bytes": 17638400,
+   "durationSec": 61,
+   "licence": {
+    "code": "cc by 3.0",
+    "url": "https://creativecommons.org/licenses/by/3.0/",
+    "attributionRequired": true,
+    "shareAlike": false
+   },
+   "author": "LG",
+   "credit": "http://freesound.org/people/LG/sounds/141990/",
+   "categories": [
+    "Christmas markets in Berlin",
+    "Audio files of Berlin"
+   ],
+   "keywords": "141990 lg christmas market neptunbrunnen 03 111223 field-recording at the neptunbrunnen christmas market in berlin, germany, 2011. sounds of people having fun. sony pcm-d50 christmas markets in berlin audio files of berlin category:audio files of berlin",
+   "soundCategory": "human",
+   "place": {
+    "name": "Berlin",
+    "country": "Germany",
+    "lat": 52.52,
+    "lon": 13.405,
+    "precision": "city"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  },
+  {
+   "id": "commons-159465-inchadney-berlin-ostbahnhof-2243cb76",
+   "source": "commons",
+   "title": "159465 inchadney berlin ostbahnhof",
+   "description": "Original discription: I recorded this track on one of Berlins railwaystations, the \"Ostbahnhof\" in the east of the town. It is a binauralrecording using the Soundman OKM studio microphones, an A3 adapter and a Sony PCM-M10.",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3b/159465_inchadney_berlin-ostbahnhof.ogg/159465_inchadney_berlin-ostbahnhof.ogg.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:159465_inchadney_berlin-ostbahnhof.ogg",
+   "mime": "application/ogg",
+   "bytes": 19330727,
+   "durationSec": 695,
+   "licence": {
+    "code": "cc by 3.0",
+    "url": "https://creativecommons.org/licenses/by/3.0/",
+    "attributionRequired": true,
+    "shareAlike": false
+   },
+   "author": "inchadney",
+   "credit": "http://freesound.org/people/inchadney/sounds/159465/",
+   "categories": [
+    "Sounds of rail transport in Germany",
+    "Berlin Ostbahnhof",
+    "Unknown date",
+    "Audio files of Berlin"
+   ],
+   "keywords": "159465 inchadney berlin ostbahnhof original discription: i recorded this track on one of berlins railwaystations, the \"ostbahnhof\" in the east of the town. it is a binauralrecording using the soundman okm studio microphones, an a3 adapter and a sony pcm-m10. sounds of rail transport in germany berlin ostbahnhof unknown date audio files of berlin category:audio files of berlin",
+   "soundCategory": "transport",
+   "place": {
+    "name": "Berlin",
+    "country": "Germany",
+    "lat": 52.52,
+    "lon": 13.405,
+    "precision": "city"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  },
+  {
+   "id": "commons-168626-foleygoal-soundscapechurchst-marienkircheberlin02-666b0f16",
+   "source": "commons",
+   "title": "168626 foleygoal soundscapechurchst marienkircheberlin02",
+   "description": "Soundscape in the church of St. Marienkirche in Berlin. Type of microphone: Audio technica AT835ST Stereo. File quality: .wav 96.000Hz - 24-bit",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c1/168626_foleygoal_soundscapechurchst-marienkircheberlin02.wav/168626_foleygoal_soundscapechurchst-marienkircheberlin02.wav.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:168626_foleygoal_soundscapechurchst-marienkircheberlin02.wav",
+   "mime": "audio/wav",
+   "bytes": 18137138,
+   "durationSec": 31,
+   "licence": {
+    "code": "cc by 3.0",
+    "url": "https://creativecommons.org/licenses/by/3.0/",
+    "attributionRequired": true,
+    "shareAlike": false
+   },
+   "author": "foleygoal",
+   "credit": "http://freesound.org/people/foleygoal/sounds/168626/",
+   "categories": [
+    "Unknown date",
+    "Audio files of Berlin",
+    "Marienkirche (Berlin-Mitte)"
+   ],
+   "keywords": "168626 foleygoal soundscapechurchst marienkircheberlin02 soundscape in the church of st. marienkirche in berlin. type of microphone: audio technica at835st stereo. file quality: .wav 96.000hz - 24-bit unknown date audio files of berlin marienkirche (berlin-mitte) category:audio files of berlin",
+   "soundCategory": "architecture",
+   "place": {
+    "name": "Berlin",
+    "country": "Germany",
+    "lat": 52.52,
+    "lon": 13.405,
+    "precision": "city"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  },
+  {
+   "id": "commons-20221229-abisko-turiststation-at-night-wind-and-snow-11378c78",
+   "source": "commons",
+   "title": "20221229   Abisko Turiststation at night   Wind and snow",
+   "description": "Recording of the wind blowing the snow on December 29 2022 in the evening at Abisko Turiststation.",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/11/20221229_-_Abisko_Turiststation_at_night_-_Wind_and_snow.wav/20221229_-_Abisko_Turiststation_at_night_-_Wind_and_snow.wav.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:20221229_-_Abisko_Turiststation_at_night_-_Wind_and_snow.wav",
+   "mime": "audio/wav",
+   "bytes": 7774108,
+   "durationSec": 44,
+   "licence": {
+    "code": "cc by-sa 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attributionRequired": true,
+    "shareAlike": true
+   },
+   "author": "Fabricio Cardenas",
+   "credit": "Own work",
+   "categories": [
+    "Abisko Turiststation",
+    "Self-published work",
+    "December 2022 in Sweden",
+    "Recordings of wind",
+    "Files with coordinates missing SDC location of creation",
+    "Wind in Sweden"
+   ],
+   "keywords": "20221229   abisko turiststation at night   wind and snow recording of the wind blowing the snow on december 29 2022 in the evening at abisko turiststation. abisko turiststation self-published work december 2022 in sweden recordings of wind files with coordinates missing sdc location of creation wind in sweden category:recordings of wind",
+   "soundCategory": "weather",
+   "place": {
+    "name": "Recording of the wind blowing the snow on December 29 2022 i",
+    "country": "",
+    "lat": 68.358885,
+    "lon": 18.7865,
+    "precision": "exact"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  },
+  {
+   "id": "commons-2023-mai-20-14h-wien-innerer-lerchenfelder-gu-rtel-thaliagas-d71d5ef3",
+   "source": "commons",
+   "title": "2023 Mai 20 14h Wien innerer Lerchenfelder Gürtel Thaliagasse rumpeln der Straßenbahn Linie 46",
+   "description": "2023-Mai-20 14h Wien innerer Lerchenfelder Gürtel Thaliagasse rumpeln der Straßenbahn Linie 46",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/33/2023-Mai-20_14h_Wien_innerer_Lerchenfelder_G%C3%BCrtel_Thaliagasse_rumpeln_der_Stra%C3%9Fenbahn_Linie_46.wav/2023-Mai-20_14h_Wien_innerer_Lerchenfelder_G%C3%BCrtel_Thaliagasse_rumpeln_der_Stra%C3%9Fenbahn_Linie_46.wav.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:2023-Mai-20_14h_Wien_innerer_Lerchenfelder_G%C3%BCrtel_Thaliagasse_rumpeln_der_Stra%C3%9Fenbahn_Linie_46.wav",
+   "mime": "audio/wav",
+   "bytes": 783964,
+   "durationSec": 4,
+   "licence": {
+    "code": "cc by-sa 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attributionRequired": true,
+    "shareAlike": true
+   },
+   "author": "DrTrumpet",
+   "credit": "Own work",
+   "categories": [
+    "Lerchenfelder Gürtel, Vienna",
+    "Tram line 46 (Vienna)",
+    "Self-published work",
+    "Media from WikiDaheim 2023 in Austria/all",
+    "May 2023 in tram transport",
+    "May 2023 in Vienna",
+    "May 2023 in rail transport in Austria",
+    "Audio files of 2023"
+   ],
+   "keywords": "2023 mai 20 14h wien innerer lerchenfelder gürtel thaliagasse rumpeln der straßenbahn linie 46 2023-mai-20 14h wien innerer lerchenfelder gürtel thaliagasse rumpeln der straßenbahn linie 46 lerchenfelder gürtel, vienna tram line 46 (vienna) self-published work media from wikidaheim 2023 in austria/all may 2023 in tram transport may 2023 in vienna may 2023 in rail transport in austria audio files of 2023 sounds of trams files with coordinates missing sdc location of creation 2023 in tram transport in vienna wie klingt wien 2023-05-20 audio files of vienna media from wikidaheim 2023 in austria/unspecified category:audio files of vienna",
+   "soundCategory": "traffic",
+   "place": {
+    "name": "Vienna",
+    "country": "Austria",
+    "lat": 48.208441,
+    "lon": 16.339217,
+    "precision": "exact"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  },
+  {
+   "id": "commons-2023-mai-20-14h-wien-innerer-lerchenfelder-gu-rtel-thaliagas-e15c120c",
+   "source": "commons",
+   "title": "2023 Mai 20 14h Wien innerer Lerchenfelder Gürtel Thaliagasse rumpeln der Straßenbahn 46",
+   "description": "2023-Mai-20 14h Wien innerer Lerchenfelder Gürtel Thaliagasse rumpeln der Straßenbahn 46",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/35/2023-Mai-20_14h_Wien_innerer_Lerchenfelder_G%C3%BCrtel_Thaliagasse_rumpeln_der_Stra%C3%9Fenbahn_46.wav/2023-Mai-20_14h_Wien_innerer_Lerchenfelder_G%C3%BCrtel_Thaliagasse_rumpeln_der_Stra%C3%9Fenbahn_46.wav.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:2023-Mai-20_14h_Wien_innerer_Lerchenfelder_G%C3%BCrtel_Thaliagasse_rumpeln_der_Stra%C3%9Fenbahn_46.wav",
+   "mime": "audio/wav",
+   "bytes": 5962480,
+   "durationSec": 31,
+   "licence": {
+    "code": "cc by-sa 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attributionRequired": true,
+    "shareAlike": true
+   },
+   "author": "DrTrumpet",
+   "credit": "Own work",
+   "categories": [
+    "Lerchenfelder Gürtel, Vienna",
+    "Tram line 46 (Vienna)",
+    "Self-published work",
+    "Media from WikiDaheim 2023 in Austria/all",
+    "May 2023 in rail transport in Austria",
+    "May 2023 in road transport in Austria",
+    "Audio files of 2023",
+    "Sounds of trams"
+   ],
+   "keywords": "2023 mai 20 14h wien innerer lerchenfelder gürtel thaliagasse rumpeln der straßenbahn 46 2023-mai-20 14h wien innerer lerchenfelder gürtel thaliagasse rumpeln der straßenbahn 46 lerchenfelder gürtel, vienna tram line 46 (vienna) self-published work media from wikidaheim 2023 in austria/all may 2023 in rail transport in austria may 2023 in road transport in austria audio files of 2023 sounds of trams files with coordinates missing sdc location of creation 2023 in tram transport in vienna 2023 in road transport in vienna wie klingt wien 2023-05-20 uploaded via campaign:wikidaheim-at ambient sounds audio files of vienna media from wikidaheim 2023 in austria/unspecified category:audio files of vienna",
+   "soundCategory": "traffic",
+   "place": {
+    "name": "Vienna",
+    "country": "Austria",
+    "lat": 48.208441,
+    "lon": 16.339217,
+    "precision": "exact"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  },
+  {
+   "id": "commons-2023-mai-20-14h34min-wien-innerer-lerchenfelder-gu-rtel-thal-6509d912",
+   "source": "commons",
+   "title": "2023 Mai 20 14h34min Wien innerer Lerchenfelder Gürtel Thaliagasse Nachmittagsverkehr",
+   "description": "2023-Mai-20 14h34min Wien innerer Lerchenfelder Gürtel Thaliastraße Nachmittagsverkehr",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/da/2023-Mai-20_14h34min_Wien_innerer_Lerchenfelder_G%C3%BCrtel_Thaliagasse_Nachmittagsverkehr.wav/2023-Mai-20_14h34min_Wien_innerer_Lerchenfelder_G%C3%BCrtel_Thaliagasse_Nachmittagsverkehr.wav.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:2023-Mai-20_14h34min_Wien_innerer_Lerchenfelder_G%C3%BCrtel_Thaliagasse_Nachmittagsverkehr.wav",
+   "mime": "audio/wav",
+   "bytes": 5712680,
+   "durationSec": 30,
+   "licence": {
+    "code": "cc by-sa 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attributionRequired": true,
+    "shareAlike": true
+   },
+   "author": "DrTrumpet",
+   "credit": "Own work",
+   "categories": [
+    "Binaural recordings",
+    "Lerchenfelder Gürtel, Vienna",
+    "Self-published work",
+    "Media from WikiDaheim 2023 in Austria/all",
+    "May 2023 in Vienna",
+    "May 2023 in road transport in Austria",
+    "Files with coordinates missing SDC location of creation",
+    "2023 in road transport in Vienna"
+   ],
+   "keywords": "2023 mai 20 14h34min wien innerer lerchenfelder gürtel thaliagasse nachmittagsverkehr 2023-mai-20 14h34min wien innerer lerchenfelder gürtel thaliastraße nachmittagsverkehr binaural recordings lerchenfelder gürtel, vienna self-published work media from wikidaheim 2023 in austria/all may 2023 in vienna may 2023 in road transport in austria files with coordinates missing sdc location of creation 2023 in road transport in vienna wie klingt wien 2023-05-20 sounds of road transport ambient sounds audio files of vienna media from wikidaheim 2023 in austria/unspecified category:audio files of vienna",
+   "soundCategory": "traffic",
+   "place": {
+    "name": "Vienna",
+    "country": "Austria",
+    "lat": 48.208441,
+    "lon": 16.339217,
+    "precision": "exact"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  },
+  {
+   "id": "commons-2023-mai-20-15h10min-wien-u6-station-thaliastrasse-bahnsteig-d4705e0e",
+   "source": "commons",
+   "title": "2023 Mai 20 15h10min Wien U6 Station Thaliastrasse Bahnsteig Einfahrtsbereich Richtung Westbahnhof Ein  und Ausfahrt der U6 (ohne Ansagen)",
+   "description": "2023-Mai-20 15h10min Wien U6 Station Thaliastrasse Bahnsteig Einfahrtsbereich Richtung Westbahnhof Ein- und Ausfahrt der U6 (ohne Ansagen)",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1e/2023-Mai-20_15h10min_Wien_U6_Station_Thaliastrasse_Bahnsteig_Einfahrtsbereich_Richtung_Westbahnhof_Ein-_und_Ausfahrt_der_U6_%28ohne_Ansagen%29.wav/2023-Mai-20_15h10min_Wien_U6_Station_Thaliastrasse_Bahnsteig_Einfahrtsbereich_Richtung_Westbahnhof_Ein-_und_Ausfahrt_der_U6_%28ohne_Ansagen%29.wav.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:2023-Mai-20_15h10min_Wien_U6_Station_Thaliastrasse_Bahnsteig_Einfahrtsbereich_Richtung_Westbahnhof_Ein-_und_Ausfahrt_der_U6_(ohne_Ansagen).wav",
+   "mime": "audio/wav",
+   "bytes": 8411608,
+   "durationSec": 44,
+   "licence": {
+    "code": "cc by-sa 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attributionRequired": true,
+    "shareAlike": true
+   },
+   "author": "DrTrumpet",
+   "credit": "Own work",
+   "categories": [
+    "Thaliastraße metro station",
+    "Binaural recordings",
+    "Self-published work",
+    "Media from WikiDaheim 2023 in Austria/all",
+    "May 2023 in Vienna",
+    "May 2023 in rail transport in Austria",
+    "Files with coordinates missing SDC location of creation",
+    "2023 in rail transport in Vienna"
+   ],
+   "keywords": "2023 mai 20 15h10min wien u6 station thaliastrasse bahnsteig einfahrtsbereich richtung westbahnhof ein  und ausfahrt der u6 (ohne ansagen) 2023-mai-20 15h10min wien u6 station thaliastrasse bahnsteig einfahrtsbereich richtung westbahnhof ein- und ausfahrt der u6 (ohne ansagen) thaliastraße metro station binaural recordings self-published work media from wikidaheim 2023 in austria/all may 2023 in vienna may 2023 in rail transport in austria files with coordinates missing sdc location of creation 2023 in rail transport in vienna wie klingt wien 2023-05-20 uploaded via campaign:wikidaheim-at ambient sounds audio files of vienna media from wikidaheim 2023 in austria/unspecified category:audio files of vienna",
+   "soundCategory": "transport",
+   "place": {
+    "name": "Vienna",
+    "country": "Austria",
+    "lat": 48.208063,
+    "lon": 16.338151,
+    "precision": "exact"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  },
+  {
+   "id": "commons-2023-mai-20-15h35min-stephansplatz-voller-gemurmel-d675ce0e",
+   "source": "commons",
+   "title": "2023 Mai 20 15h35min Stephansplatz voller Gemurmel",
+   "description": "2023-Mai-20 15h35min Stephansplatz voller Gemurmel",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2f/2023-Mai-20_15h35min_Stephansplatz_voller_Gemurmel.wav/2023-Mai-20_15h35min_Stephansplatz_voller_Gemurmel.wav.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:2023-Mai-20_15h35min_Stephansplatz_voller_Gemurmel.wav",
+   "mime": "audio/wav",
+   "bytes": 8373488,
+   "durationSec": 44,
+   "licence": {
+    "code": "cc by-sa 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attributionRequired": true,
+    "shareAlike": true
+   },
+   "author": "DrTrumpet",
+   "credit": "Own work",
+   "categories": [
+    "Stephansplatz, Vienna",
+    "Binaural recordings",
+    "Self-published work",
+    "Media from WikiDaheim 2023 in Austria/all",
+    "May 2023 in Vienna",
+    "Crowds in Austria",
+    "Sounds relating to transport",
+    "Files with coordinates missing SDC location of creation"
+   ],
+   "keywords": "2023 mai 20 15h35min stephansplatz voller gemurmel 2023-mai-20 15h35min stephansplatz voller gemurmel stephansplatz, vienna binaural recordings self-published work media from wikidaheim 2023 in austria/all may 2023 in vienna crowds in austria sounds relating to transport files with coordinates missing sdc location of creation wie klingt wien 2023-05-20 ambient sounds audio files of vienna media from wikidaheim 2023 in austria/unspecified category:audio files of vienna",
+   "soundCategory": "animal",
+   "place": {
+    "name": "Vienna",
+    "country": "Austria",
+    "lat": 48.208614,
+    "lon": 16.373202,
+    "precision": "exact"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  },
+  {
+   "id": "commons-2023-mai-20-15h40min-wien-im-linken-seitenschiff-des-stephan-7d1221ac",
+   "source": "commons",
+   "title": "2023 Mai 20 15h40min Wien im linken Seitenschiff des Stephansdoms, fast Stille",
+   "description": "2023-Mai-20 15h40min Wien im linken Seitenschiff des Stephansdoms, fast Stille",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/06/2023-Mai-20_15h40min_Wien_im_linken_Seitenschiff_des_Stephansdoms%2C_fast_Stille.wav/2023-Mai-20_15h40min_Wien_im_linken_Seitenschiff_des_Stephansdoms%2C_fast_Stille.wav.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:2023-Mai-20_15h40min_Wien_im_linken_Seitenschiff_des_Stephansdoms,_fast_Stille.wav",
+   "mime": "audio/wav",
+   "bytes": 3079296,
+   "durationSec": 16,
+   "licence": {
+    "code": "cc by-sa 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attributionRequired": true,
+    "shareAlike": true
+   },
+   "author": "DrTrumpet",
+   "credit": "Own work",
+   "categories": [
+    "St. Stephen's Cathedral, Vienna",
+    "Self-published work",
+    "Media from WikiDaheim 2023 in Austria/all",
+    "June 2023 in Vienna",
+    "Files with coordinates missing SDC location of creation",
+    "Wie klingt Wien 2023-05-20",
+    "Sounds relating to architecture",
+    "Ambient sounds"
+   ],
+   "keywords": "2023 mai 20 15h40min wien im linken seitenschiff des stephansdoms, fast stille 2023-mai-20 15h40min wien im linken seitenschiff des stephansdoms, fast stille st. stephen's cathedral, vienna self-published work media from wikidaheim 2023 in austria/all june 2023 in vienna files with coordinates missing sdc location of creation wie klingt wien 2023-05-20 sounds relating to architecture ambient sounds audio files of vienna media from wikidaheim 2023 in austria/unspecified category:audio files of vienna",
+   "soundCategory": "architecture",
+   "place": {
+    "name": "Vienna",
+    "country": "Austria",
+    "lat": 48.208619,
+    "lon": 16.373239,
+    "precision": "exact"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  },
+  {
+   "id": "commons-2023-mai-20-15h40min-wien-linkes-seitenschiff-des-stephansdo-9774eb43",
+   "source": "commons",
+   "title": "2023 Mai 20 15h40min Wien linkes Seitenschiff des Stephansdoms, Stimmengewirr",
+   "description": "2023-Mai-20 15h40min Wien linkes Seitenschiff des Stephansdoms, Stimmengewirr",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/de/2023-Mai-20_15h40min_Wien_linkes_Seitenschiff_des_Stephansdoms%2C_Stimmengewirr.wav/2023-Mai-20_15h40min_Wien_linkes_Seitenschiff_des_Stephansdoms%2C_Stimmengewirr.wav.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:2023-Mai-20_15h40min_Wien_linkes_Seitenschiff_des_Stephansdoms,_Stimmengewirr.wav",
+   "mime": "audio/wav",
+   "bytes": 22409072,
+   "durationSec": 117,
+   "licence": {
+    "code": "cc by-sa 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attributionRequired": true,
+    "shareAlike": true
+   },
+   "author": "DrTrumpet",
+   "credit": "Own work",
+   "categories": [
+    "Interior of St. Stephen's Cathedral, Vienna",
+    "Self-published work",
+    "Media from WikiDaheim 2023 in Austria/all",
+    "June 2023 in Vienna",
+    "Audio files of 2023",
+    "Files with coordinates missing SDC location of creation",
+    "Wie klingt Wien 2023-05-20",
+    "Uploaded via Campaign:WikiDaheim-at"
+   ],
+   "keywords": "2023 mai 20 15h40min wien linkes seitenschiff des stephansdoms, stimmengewirr 2023-mai-20 15h40min wien linkes seitenschiff des stephansdoms, stimmengewirr interior of st. stephen's cathedral, vienna self-published work media from wikidaheim 2023 in austria/all june 2023 in vienna audio files of 2023 files with coordinates missing sdc location of creation wie klingt wien 2023-05-20 uploaded via campaign:wikidaheim-at sounds relating to architecture ambient sounds audio files of vienna media from wikidaheim 2023 in austria/unspecified category:audio files of vienna",
+   "soundCategory": "architecture",
+   "place": {
+    "name": "Vienna",
+    "country": "Austria",
+    "lat": 48.208619,
+    "lon": 16.373239,
+    "precision": "exact"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  },
+  {
+   "id": "commons-2023-mai-20-15h50min-wien-stephansplatz-ecke-schulerstra-e-r-31508421",
+   "source": "commons",
+   "title": "2023 Mai 20 15h50min Wien Stephansplatz Ecke Schulerstraße Rotenturmgasse Fiaker Anhalten Abfahren",
+   "description": "2023-Mai-20 15h50min Wien Stephansplatz Ecke Schulerstraße Rotenturmstraße Fiaker Anhalten Abfahren",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/48/2023-Mai-20_15h50min_Wien_Stephansplatz_Ecke_Schulerstra%C3%9Fe_Rotenturmgasse_Fiaker_Anhalten_Abfahren.wav/2023-Mai-20_15h50min_Wien_Stephansplatz_Ecke_Schulerstra%C3%9Fe_Rotenturmgasse_Fiaker_Anhalten_Abfahren.wav.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:2023-Mai-20_15h50min_Wien_Stephansplatz_Ecke_Schulerstra%C3%9Fe_Rotenturmgasse_Fiaker_Anhalten_Abfahren.wav",
+   "mime": "audio/wav",
+   "bytes": 9272704,
+   "durationSec": 48,
+   "licence": {
+    "code": "cc by-sa 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attributionRequired": true,
+    "shareAlike": true
+   },
+   "author": "DrTrumpet",
+   "credit": "Own work",
+   "categories": [
+    "Stephansplatz, Vienna",
+    "Self-published work",
+    "Media from WikiDaheim 2023 in Austria/all",
+    "May 2023 in Vienna",
+    "May 2023 in road transport in Austria",
+    "Audio files about horses",
+    "Files with coordinates missing SDC location of creation",
+    "Fiakers in Vienna"
+   ],
+   "keywords": "2023 mai 20 15h50min wien stephansplatz ecke schulerstraße rotenturmgasse fiaker anhalten abfahren 2023-mai-20 15h50min wien stephansplatz ecke schulerstraße rotenturmstraße fiaker anhalten abfahren stephansplatz, vienna self-published work media from wikidaheim 2023 in austria/all may 2023 in vienna may 2023 in road transport in austria audio files about horses files with coordinates missing sdc location of creation fiakers in vienna 2023 in road transport in vienna wie klingt wien 2023-05-20 ambient sounds audio files of vienna media from wikidaheim 2023 in austria/unspecified category:audio files of vienna",
+   "soundCategory": "traffic",
+   "place": {
+    "name": "Vienna",
+    "country": "Austria",
+    "lat": 48.20898,
+    "lon": 16.373023,
+    "precision": "exact"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  },
+  {
+   "id": "commons-2023-mai-20-15h52min-wien-stephansplatz-ecke-schulerstra-e-r-921dcf8a",
+   "source": "commons",
+   "title": "2023 Mai 20 15h52min Wien Stephansplatz Ecke Schulerstraße Rotenturmgasse Fiaker anhalten einparken",
+   "description": "2023-Mai-20 15h52min Wien Stephansplatz Ecke Schulerstraße Rotenturmgasse Fiaker anhalten einparken",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a8/2023-Mai-20_15h52min_Wien_Stephansplatz_Ecke_Schulerstra%C3%9Fe_Rotenturmgasse_Fiaker_anhalten_einparken.ogg/2023-Mai-20_15h52min_Wien_Stephansplatz_Ecke_Schulerstra%C3%9Fe_Rotenturmgasse_Fiaker_anhalten_einparken.ogg.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:2023-Mai-20_15h52min_Wien_Stephansplatz_Ecke_Schulerstra%C3%9Fe_Rotenturmgasse_Fiaker_anhalten_einparken.ogg",
+   "mime": "application/ogg",
+   "bytes": 1173874,
+   "durationSec": 11,
+   "licence": {
+    "code": "cc by-sa 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attributionRequired": true,
+    "shareAlike": true
+   },
+   "author": "DrTrumpet",
+   "credit": "Own work",
+   "categories": [
+    "Stephansplatz, Vienna",
+    "Self-published work",
+    "Media from WikiDaheim 2023 in Austria/all",
+    "May 2023 in Vienna",
+    "May 2023 in road transport in Austria",
+    "Audio files of 2023",
+    "Audio files about horses",
+    "Files with coordinates missing SDC location of creation"
+   ],
+   "keywords": "2023 mai 20 15h52min wien stephansplatz ecke schulerstraße rotenturmgasse fiaker anhalten einparken 2023-mai-20 15h52min wien stephansplatz ecke schulerstraße rotenturmgasse fiaker anhalten einparken stephansplatz, vienna self-published work media from wikidaheim 2023 in austria/all may 2023 in vienna may 2023 in road transport in austria audio files of 2023 audio files about horses files with coordinates missing sdc location of creation fiakers in vienna 2023 in road transport in vienna wie klingt wien 2023-05-20 uploaded via campaign:wikidaheim-at ambient sounds audio files of vienna media from wikidaheim 2023 in austria/unspecified category:audio files of vienna",
+   "soundCategory": "traffic",
+   "place": {
+    "name": "Vienna",
+    "country": "Austria",
+    "lat": 48.20898,
+    "lon": 16.373023,
+    "precision": "exact"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  },
+  {
+   "id": "commons-2023-mai-20-15h52min-wien-stephansplatz-fiaker-anhalten-einp-dd9cb8a8",
+   "source": "commons",
+   "title": "2023 Mai 20 15h52min Wien Stephansplatz Fiaker anhalten einparken",
+   "description": "2023-Mai-20 15h52min Wien Stephansplatz Fiaker anhalten einparken",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d3/2023-Mai-20_15h52min_Wien_Stephansplatz_Fiaker_anhalten_einparken.wav/2023-Mai-20_15h52min_Wien_Stephansplatz_Fiaker_anhalten_einparken.wav.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:2023-Mai-20_15h52min_Wien_Stephansplatz_Fiaker_anhalten_einparken.wav",
+   "mime": "audio/wav",
+   "bytes": 2046240,
+   "durationSec": 11,
+   "licence": {
+    "code": "cc by-sa 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attributionRequired": true,
+    "shareAlike": true
+   },
+   "author": "DrTrumpet",
+   "credit": "Own work",
+   "categories": [
+    "Stephansplatz, Vienna",
+    "Self-published work",
+    "Media from WikiDaheim 2023 in Austria/all",
+    "May 2023 in Vienna",
+    "May 2023 in road transport in Austria",
+    "Audio files of 2023",
+    "Audio files about horses",
+    "Files with coordinates missing SDC location of creation"
+   ],
+   "keywords": "2023 mai 20 15h52min wien stephansplatz fiaker anhalten einparken 2023-mai-20 15h52min wien stephansplatz fiaker anhalten einparken stephansplatz, vienna self-published work media from wikidaheim 2023 in austria/all may 2023 in vienna may 2023 in road transport in austria audio files of 2023 audio files about horses files with coordinates missing sdc location of creation fiakers in vienna 2023 in road transport in vienna wie klingt wien 2023-05-20 ambient sounds audio files of vienna media from wikidaheim 2023 in austria/unspecified category:audio files of vienna",
+   "soundCategory": "traffic",
+   "place": {
+    "name": "Vienna",
+    "country": "Austria",
+    "lat": 48.20898,
+    "lon": 16.373023,
+    "precision": "exact"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  },
+  {
+   "id": "commons-2024-lilliput-bahn-im-wiener-prater-2e937c2b",
+   "source": "commons",
+   "title": "2024 lilliput bahn im wiener prater",
+   "description": "Sound: Die Liliput-Bahn im Wiener Prater startet von ihrem \"Hauptbahnhof\" im Wurstelprater",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7a/2024-lilliput-bahn-im-wiener-prater.ogg/2024-lilliput-bahn-im-wiener-prater.ogg.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:2024-lilliput-bahn-im-wiener-prater.ogg",
+   "mime": "application/ogg",
+   "bytes": 883542,
+   "durationSec": 33,
+   "licence": {
+    "code": "cc by-sa 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attributionRequired": true,
+    "shareAlike": true
+   },
+   "author": "WWWeb.pix",
+   "credit": "Own work",
+   "categories": [
+    "Liliputbahn Prater",
+    "Self-published work",
+    "Wie klingt Wien 2024-05-26",
+    "Audio files of Vienna"
+   ],
+   "keywords": "2024 lilliput bahn im wiener prater sound: die liliput-bahn im wiener prater startet von ihrem \"hauptbahnhof\" im wurstelprater liliputbahn prater self-published work wie klingt wien 2024-05-26 audio files of vienna category:audio files of vienna",
+   "soundCategory": "nature",
+   "place": {
+    "name": "Vienna",
+    "country": "Austria",
+    "lat": 48.2082,
+    "lon": 16.3738,
+    "precision": "city"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  },
+  {
+   "id": "commons-ambient-sound-children-playing-in-a-park-2026-05-19-3ac22135",
+   "source": "commons",
+   "title": "Ambient sound children playing in a park 2026 05 19",
+   "description": "A recording of a group of children playing outside, shouting and laughing joyfully.",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7a/Ambient_sound_children_playing_in_a_park_2026-05-19.oga/Ambient_sound_children_playing_in_a_park_2026-05-19.oga.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Ambient_sound_children_playing_in_a_park_2026-05-19.oga",
+   "mime": "application/ogg",
+   "bytes": 223438,
+   "durationSec": 30,
+   "licence": {
+    "code": "cc by-sa 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attributionRequired": true,
+    "shareAlike": true
+   },
+   "author": "SchlurcherBot",
+   "credit": "Own work",
+   "categories": [
+    "Field recording",
+    "Soundscape",
+    "Self-published work",
+    "Files with coordinates missing SDC location of creation",
+    "Files uploaded via WonderWalk"
+   ],
+   "keywords": "ambient sound children playing in a park 2026 05 19 a recording of a group of children playing outside, shouting and laughing joyfully. field recording soundscape self-published work files with coordinates missing sdc location of creation files uploaded via wonderwalk category:soundscape",
+   "soundCategory": "human",
+   "place": {
+    "name": "A recording of a group of children playing outside, shouting",
+    "country": "",
+    "lat": 52.449088,
+    "lon": 13.342245,
+    "precision": "exact"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  },
+  {
+   "id": "commons-ambient-sound-city-street-berlin-2026-05-17-d0badafe",
+   "source": "commons",
+   "title": "Ambient sound city street Berlin 2026 05 17",
+   "description": "Recording of street noise in Berlin, dominated by the constant sound of cars passing by on an asphalt road.",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/19/Ambient_sound_city_street_Berlin_2026-05-17.oga/Ambient_sound_city_street_Berlin_2026-05-17.oga.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Ambient_sound_city_street_Berlin_2026-05-17.oga",
+   "mime": "application/ogg",
+   "bytes": 221556,
+   "durationSec": 30,
+   "licence": {
+    "code": "cc by-sa 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attributionRequired": true,
+    "shareAlike": true
+   },
+   "author": "SchlurcherBot",
+   "credit": "Own work",
+   "categories": [
+    "Soundscape",
+    "Self-published work",
+    "Sounds of automobiles",
+    "Files with coordinates missing SDC location of creation",
+    "Sounds of road transport",
+    "Files uploaded via WonderWalk"
+   ],
+   "keywords": "ambient sound city street berlin 2026 05 17 recording of street noise in berlin, dominated by the constant sound of cars passing by on an asphalt road. soundscape self-published work sounds of automobiles files with coordinates missing sdc location of creation sounds of road transport files uploaded via wonderwalk category:soundscape",
+   "soundCategory": "traffic",
+   "place": {
+    "name": "Recording of street noise in Berlin, dominated by the consta",
+    "country": "",
+    "lat": 52.447593,
+    "lon": 13.341992,
+    "precision": "exact"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  },
+  {
+   "id": "commons-ambient-sound-street-traffic-berlin-2026-05-17-f6243b9e",
+   "source": "commons",
+   "title": "Ambient sound street traffic Berlin 2026 05 17",
+   "description": "An outdoor recording in an urban environment where the sounds of cars driving by on an asphalt road are clearly audible.",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6a/Ambient_sound_street_traffic_Berlin_2026-05-17.oga/Ambient_sound_street_traffic_Berlin_2026-05-17.oga.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Ambient_sound_street_traffic_Berlin_2026-05-17.oga",
+   "mime": "application/ogg",
+   "bytes": 223536,
+   "durationSec": 30,
+   "licence": {
+    "code": "cc by-sa 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attributionRequired": true,
+    "shareAlike": true
+   },
+   "author": "SchlurcherBot",
+   "credit": "Own work",
+   "categories": [
+    "Soundscape",
+    "Self-published work",
+    "Sounds of automobiles",
+    "Files with coordinates missing SDC location of creation",
+    "Sounds of road transport",
+    "Files uploaded via WonderWalk"
+   ],
+   "keywords": "ambient sound street traffic berlin 2026 05 17 an outdoor recording in an urban environment where the sounds of cars driving by on an asphalt road are clearly audible. soundscape self-published work sounds of automobiles files with coordinates missing sdc location of creation sounds of road transport files uploaded via wonderwalk category:soundscape",
+   "soundCategory": "traffic",
+   "place": {
+    "name": "An outdoor recording in an urban environment where the sound",
+    "country": "",
+    "lat": 52.447599,
+    "lon": 13.341983,
+    "precision": "exact"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  },
+  {
+   "id": "commons-angle-grinder-cutting-a-steel-chain-soundbite-a7fed00d",
+   "source": "commons",
+   "title": "Angle Grinder cutting a steel chain   Soundbite",
+   "description": "An angle grinder is used for cutting through a steel chain. The chain elements are made from steel with a thickness of about 8 mm. Two of such chains were used for mounting mirrors with massive steel frames at the ceiling.",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5c/Angle_Grinder_cutting_a_steel_chain_-_Soundbite.ogg/Angle_Grinder_cutting_a_steel_chain_-_Soundbite.ogg.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Angle_Grinder_cutting_a_steel_chain_-_Soundbite.ogg",
+   "mime": "application/ogg",
+   "bytes": 576370,
+   "durationSec": 31,
+   "licence": {
+    "code": "cc by-sa 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attributionRequired": true,
+    "shareAlike": true
+   },
+   "author": "Pittigrilli",
+   "credit": "Own work",
+   "categories": [
+    "Angle grinders",
+    "Self-published work",
+    "Audio files of Bavaria",
+    "Sounds of machinery",
+    "Sounds of noise",
+    "Files with coordinates missing SDC location of creation (48° N, 11° E)",
+    "Extracted audio files"
+   ],
+   "keywords": "angle grinder cutting a steel chain   soundbite an angle grinder is used for cutting through a steel chain. the chain elements are made from steel with a thickness of about 8 mm. two of such chains were used for mounting mirrors with massive steel frames at the ceiling. angle grinders self-published work audio files of bavaria sounds of machinery sounds of noise files with coordinates missing sdc location of creation (48° n, 11° e) extracted audio files category:sounds of noise",
+   "soundCategory": "nature",
+   "place": {
+    "name": "An angle grinder is used for cutting through a steel chain. ",
+    "country": "",
+    "lat": 48.131609,
+    "lon": 11.566446,
+    "precision": "exact"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  },
+  {
+   "id": "commons-bee-sounds-near-cologne-germany-reinsamba-db0240cc",
+   "source": "commons",
+   "title": "Bee sounds near Cologne, Germany   reinsamba",
+   "description": "Large bee fly ( Bombylius major ) and Common carder bumblebee ( Bombus pascuorum ) visiting White Deadnettle on a field border north of Cologne , Germany . Parabolic shield with Vivanco EM 35 plus preamp, Marantz PMD 671.",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7f/Bee_sounds_near_Cologne%2C_Germany_-_reinsamba.wav/Bee_sounds_near_Cologne%2C_Germany_-_reinsamba.wav.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Bee_sounds_near_Cologne,_Germany_-_reinsamba.wav",
+   "mime": "audio/wav",
+   "bytes": 8346522,
+   "durationSec": 47,
+   "licence": {
+    "code": "cc by 3.0",
+    "url": "https://creativecommons.org/licenses/by/3.0/",
+    "attributionRequired": true,
+    "shareAlike": false
+   },
+   "author": "reinsamba",
+   "credit": "This media file comes from Freesound.org , a collection of Creative Commons licensed audio samples. For more information, please see their official website www.freesound.org",
+   "categories": [
+    "Sounds of birds recorded in Germany",
+    "Files from external sources with reviewed licenses",
+    "Audio files of Bombus pascuorum",
+    "Audio files of Bombylius major",
+    "Audio files of Cologne",
+    "Files uploaded by TeleComNasSprVen",
+    "Files from Freesound.org",
+    "Sounds of nature"
+   ],
+   "keywords": "bee sounds near cologne, germany   reinsamba large bee fly ( bombylius major ) and common carder bumblebee ( bombus pascuorum ) visiting white deadnettle on a field border north of cologne , germany . parabolic shield with vivanco em 35 plus preamp, marantz pmd 671. sounds of birds recorded in germany files from external sources with reviewed licenses audio files of bombus pascuorum audio files of bombylius major audio files of cologne files uploaded by telecomnassprven files from freesound.org sounds of nature birds of cologne bees on flowers category:audio files of cologne",
+   "soundCategory": "traffic",
+   "place": {
+    "name": "Cologne",
+    "country": "Germany",
+    "lat": 50.9375,
+    "lon": 6.9603,
+    "precision": "city"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  },
+  {
+   "id": "commons-bird-sounds-victoria-australia-41bf9d4f",
+   "source": "commons",
+   "title": "Bird Sounds Victoria Australia",
+   "description": "Bird sounds in Yarra Bend Park, Melbourne, Victoria, Australia",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7b/Bird_Sounds_Victoria_Australia.wav/Bird_Sounds_Victoria_Australia.wav.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Bird_Sounds_Victoria_Australia.wav",
+   "mime": "audio/wav",
+   "bytes": 2634008,
+   "durationSec": 14,
+   "licence": {
+    "code": "cc by-sa 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attributionRequired": true,
+    "shareAlike": true
+   },
+   "author": "Redtree21",
+   "credit": "Own work",
+   "categories": [
+    "Yarra Bend Park",
+    "Self-published work",
+    "Files with coordinates missing SDC location of creation",
+    "Birds of Melbourne",
+    "Unidentified birds by sound",
+    "Audio files of Melbourne"
+   ],
+   "keywords": "bird sounds victoria australia bird sounds in yarra bend park, melbourne, victoria, australia yarra bend park self-published work files with coordinates missing sdc location of creation birds of melbourne unidentified birds by sound audio files of melbourne category:audio files of melbourne",
+   "soundCategory": "animal",
+   "place": {
+    "name": "Melbourne",
+    "country": "Australia",
+    "lat": -37.79966,
+    "lon": 145.01197,
+    "precision": "exact"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  },
+  {
+   "id": "commons-bourne-woods-rain-2020-05-10-0757-623ee6e5",
+   "source": "commons",
+   "title": "Bourne woods rain 2020 05 10 0757",
+   "description": "Recorded to accompany Geograph image File:Informal path - geograph.org.uk - 6468390.jpg There was a steady Northerly breeze, and moderate rainfall.",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Bourne_woods_rain_2020-05-10_0757.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Bourne_woods_rain_2020-05-10_0757.mp3",
+   "mime": "audio/mpeg",
+   "bytes": 1728000,
+   "durationSec": 52,
+   "licence": {
+    "code": "cc by-sa 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attributionRequired": true,
+    "shareAlike": true
+   },
+   "author": "Robert EA Harvey",
+   "credit": "Own work",
+   "categories": [
+    "Self-published work",
+    "Forestry Commission",
+    "Sounds of rain",
+    "Sounds of water in the United Kingdom",
+    "Files with coordinates missing SDC location of creation (52° N, 1° W)",
+    "Bourne Wood, Lincolnshire",
+    "Short-duration soundscapes"
+   ],
+   "keywords": "bourne woods rain 2020 05 10 0757 recorded to accompany geograph image file:informal path - geograph.org.uk - 6468390.jpg there was a steady northerly breeze, and moderate rainfall. self-published work forestry commission sounds of rain sounds of water in the united kingdom files with coordinates missing sdc location of creation (52° n, 1° w) bourne wood, lincolnshire short-duration soundscapes category:sounds of rain",
+   "soundCategory": "rain",
+   "place": {
+    "name": "Recorded to accompany Geograph image File:Informal path - ge",
+    "country": "",
+    "lat": 52.773312,
+    "lon": -0.396215,
+    "precision": "exact"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  },
+  {
+   "id": "commons-bourne-woods-rain-2020-05-10-0804-cb59e200",
+   "source": "commons",
+   "title": "Bourne woods rain 2020 05 10 0804",
+   "description": "Recorded to accompany Geograph image File:Looking Out from Under - geograph.org.uk - 6468406.jpg There was a steady Northerly breeze, and moderate rainfall.",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Bourne_woods_rain_2020-05-10_0804.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Bourne_woods_rain_2020-05-10_0804.mp3",
+   "mime": "audio/mpeg",
+   "bytes": 494400,
+   "durationSec": 16,
+   "licence": {
+    "code": "cc by-sa 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attributionRequired": true,
+    "shareAlike": true
+   },
+   "author": "Robert EA Harvey",
+   "credit": "Own work",
+   "categories": [
+    "Self-published work",
+    "Forestry Commission",
+    "Recordings of wind",
+    "Sounds of rain",
+    "Sounds of water in the United Kingdom",
+    "Files with coordinates missing SDC location of creation (52° N, 1° W)",
+    "Bourne Wood, Lincolnshire",
+    "Short-duration soundscapes"
+   ],
+   "keywords": "bourne woods rain 2020 05 10 0804 recorded to accompany geograph image file:looking out from under - geograph.org.uk - 6468406.jpg there was a steady northerly breeze, and moderate rainfall. self-published work forestry commission recordings of wind sounds of rain sounds of water in the united kingdom files with coordinates missing sdc location of creation (52° n, 1° w) bourne wood, lincolnshire short-duration soundscapes category:sounds of rain",
+   "soundCategory": "rain",
+   "place": {
+    "name": "Recorded to accompany Geograph image File:Looking Out from U",
+    "country": "",
+    "lat": 52.773597,
+    "lon": -0.397392,
+    "precision": "exact"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  },
+  {
+   "id": "commons-bourne-woods-windy-2020-05-05-0753-3b9813c0",
+   "source": "commons",
+   "title": "Bourne woods windy 2020 05 05 0753",
+   "description": "Recorded to accompany Geograph image File:Deer path in Bourne Woods (geograph 6463581).jpg",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Bourne_woods_windy_2020-05-05_0753.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Bourne_woods_windy_2020-05-05_0753.mp3",
+   "mime": "audio/mpeg",
+   "bytes": 1822464,
+   "durationSec": 50,
+   "licence": {
+    "code": "cc by-sa 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attributionRequired": true,
+    "shareAlike": true
+   },
+   "author": "Robert EA Harvey",
+   "credit": "Own work",
+   "categories": [
+    "Self-published work",
+    "Forestry Commission",
+    "Birds of Lincolnshire",
+    "Recordings of wind",
+    "Files with coordinates missing SDC location of creation (52° N, 1° W)",
+    "Bourne Wood, Lincolnshire",
+    "Short-duration soundscapes"
+   ],
+   "keywords": "bourne woods windy 2020 05 05 0753 recorded to accompany geograph image file:deer path in bourne woods (geograph 6463581).jpg self-published work forestry commission birds of lincolnshire recordings of wind files with coordinates missing sdc location of creation (52° n, 1° w) bourne wood, lincolnshire short-duration soundscapes category:recordings of wind",
+   "soundCategory": "weather",
+   "place": {
+    "name": "Recorded to accompany Geograph image File:Deer path in Bourn",
+    "country": "",
+    "lat": 52.77332,
+    "lon": -0.396808,
+    "precision": "exact"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  },
+  {
+   "id": "commons-bourne-woods-windy-2020-05-05-0757-7be03ab4",
+   "source": "commons",
+   "title": "Bourne woods windy 2020 05 05 0757",
+   "description": "Recorded to accompany Geograph image File:Tree depth (geograph 6463473).jpg",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Bourne_woods_windy_2020-05-05_0757.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Bourne_woods_windy_2020-05-05_0757.mp3",
+   "mime": "audio/mpeg",
+   "bytes": 2200512,
+   "durationSec": 58,
+   "licence": {
+    "code": "cc by-sa 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attributionRequired": true,
+    "shareAlike": true
+   },
+   "author": "Robert EA Harvey",
+   "credit": "Own work",
+   "categories": [
+    "Self-published work",
+    "Recordings of wind",
+    "Files with coordinates missing SDC location of creation (52° N, 1° W)",
+    "Bourne Wood, Lincolnshire",
+    "Short-duration soundscapes"
+   ],
+   "keywords": "bourne woods windy 2020 05 05 0757 recorded to accompany geograph image file:tree depth (geograph 6463473).jpg self-published work recordings of wind files with coordinates missing sdc location of creation (52° n, 1° w) bourne wood, lincolnshire short-duration soundscapes category:recordings of wind",
+   "soundCategory": "weather",
+   "place": {
+    "name": "Recorded to accompany Geograph image File:Tree depth (geogra",
+    "country": "",
+    "lat": 52.772947,
+    "lon": -0.395785,
+    "precision": "exact"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  },
+  {
+   "id": "commons-bourne-woods-windy-2020-05-05-0806-3deb5083",
+   "source": "commons",
+   "title": "Bourne woods windy 2020 05 05 0806",
+   "description": "Recorded to accompany Geograph image File:Woodland Panorama (geograph 6463458).jpg",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Bourne_woods_windy_2020-05-05_0806.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Bourne_woods_windy_2020-05-05_0806.mp3",
+   "mime": "audio/mpeg",
+   "bytes": 1381104,
+   "durationSec": 44,
+   "licence": {
+    "code": "cc by-sa 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attributionRequired": true,
+    "shareAlike": true
+   },
+   "author": "Robert EA Harvey",
+   "credit": "Own work",
+   "categories": [
+    "Self-published work",
+    "Recordings of wind",
+    "Files with coordinates missing SDC location of creation (52° N, 1° W)",
+    "Audio files of England",
+    "Bourne Wood, Lincolnshire",
+    "Short-duration soundscapes"
+   ],
+   "keywords": "bourne woods windy 2020 05 05 0806 recorded to accompany geograph image file:woodland panorama (geograph 6463458).jpg self-published work recordings of wind files with coordinates missing sdc location of creation (52° n, 1° w) audio files of england bourne wood, lincolnshire short-duration soundscapes category:recordings of wind",
+   "soundCategory": "weather",
+   "place": {
+    "name": "Recorded to accompany Geograph image File:Woodland Panorama ",
+    "country": "",
+    "lat": 52.77266,
+    "lon": -0.39461,
+    "precision": "exact"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  },
+  {
+   "id": "commons-closing-the-garden-3cfc15f7",
+   "source": "commons",
+   "title": "Closing the garden",
+   "description": "Title Fermeture du jardin Artist aldor Original mp3 data Length:1:24 minutes (1.47 MB) Format:MP3 Stereo 44kHz 128Kbps (CBR) User tags Garden, Luxembourg, Luxembourg Garden, paris, Police, Public, strolls, Whistle Type Human PDSounds record number 588 Comment At the evening, the \"Jardin du Luxembourg\", in Paris, closes. And stroll the guardians to push out the visitors",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6a/Closing_the_garden.ogg/Closing_the_garden.ogg.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Closing_the_garden.ogg",
+   "mime": "application/ogg",
+   "bytes": 2364346,
+   "durationSec": 84,
+   "licence": {
+    "code": "public domain",
+    "url": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "attributionRequired": false,
+    "shareAlike": false
+   },
+   "author": "aldor",
+   "credit": "http://www.pdsounds.org/audio/download/588/2008+04+19+fermeture+du+jardin.mp3 PDSounds description: http://www.pdsounds.org/sounds/closing_the_garden Transferred by Fæ",
+   "categories": [
+    "PD-author",
+    "PDsounds.org",
+    "Sound signals",
+    "Audio files of Paris",
+    "Sounds created by people",
+    "Sound files uploaded by Fæ"
+   ],
+   "keywords": "closing the garden title fermeture du jardin artist aldor original mp3 data length:1:24 minutes (1.47 mb) format:mp3 stereo 44khz 128kbps (cbr) user tags garden, luxembourg, luxembourg garden, paris, police, public, strolls, whistle type human pdsounds record number 588 comment at the evening, the \"jardin du luxembourg\", in paris, closes. and stroll the guardians to push out the visitors pd-author pdsounds.org sound signals audio files of paris sounds created by people sound files uploaded by fæ category:audio files of paris",
+   "soundCategory": "human",
+   "place": {
+    "name": "Paris",
+    "country": "France",
+    "lat": 48.8566,
+    "lon": 2.3522,
+    "precision": "city"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  },
+  {
+   "id": "commons-cruce-de-eje-1-e-insurgentes-norte-f9f47d9f",
+   "source": "commons",
+   "title": "Cruce de Eje 1 e Insurgentes Norte",
+   "description": "Sound recording of the urban landscape of the intersection of Eje 1 Norte Alzate and Avenida de los Insurgentes Norte avenues. Cuauhtémoc City, Mexico City, Mexico.",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/02/Cruce_de_Eje_1_e_Insurgentes_Norte.wav/Cruce_de_Eje_1_e_Insurgentes_Norte.wav.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Cruce_de_Eje_1_e_Insurgentes_Norte.wav",
+   "mime": "audio/wav",
+   "bytes": 23846444,
+   "durationSec": 90,
+   "licence": {
+    "code": "cc by 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attributionRequired": true,
+    "shareAlike": false
+   },
+   "author": "ProtoplasmaKid",
+   "credit": "Own work",
+   "categories": [
+    "Field recording",
+    "Self-published work",
+    "Files with coordinates missing SDC location of creation",
+    "Audio files of Mexico City"
+   ],
+   "keywords": "cruce de eje 1 e insurgentes norte sound recording of the urban landscape of the intersection of eje 1 norte alzate and avenida de los insurgentes norte avenues. cuauhtémoc city, mexico city, mexico. field recording self-published work files with coordinates missing sdc location of creation audio files of mexico city category:audio files of mexico city",
+   "soundCategory": "traffic",
+   "place": {
+    "name": "Mexico City",
+    "country": "Mexico",
+    "lat": 19.446274,
+    "lon": -99.153443,
+    "precision": "exact"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  },
+  {
+   "id": "commons-dinosaurier-im-wiener-wurstelprater-f21128bf",
+   "source": "commons",
+   "title": "Dinosaurier im Wiener Wurstelprater",
+   "description": "Sound: This is what it sounds like (inviting?) in front of the attraction in the Vienna Prater to immerse yourself in the world of dinosaurs",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/87/Dinosaurier_im_Wiener_Wurstelprater.ogg/Dinosaurier_im_Wiener_Wurstelprater.ogg.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Dinosaurier_im_Wiener_Wurstelprater.ogg",
+   "mime": "application/ogg",
+   "bytes": 211682,
+   "durationSec": 24,
+   "licence": {
+    "code": "cc by-sa 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attributionRequired": true,
+    "shareAlike": true
+   },
+   "author": "WWWeb.pix",
+   "credit": "Own work",
+   "categories": [
+    "Wurstelprater",
+    "Self-published work",
+    "Wie klingt Wien 2024-05-26",
+    "Audio files of Vienna"
+   ],
+   "keywords": "dinosaurier im wiener wurstelprater sound: this is what it sounds like (inviting?) in front of the attraction in the vienna prater to immerse yourself in the world of dinosaurs wurstelprater self-published work wie klingt wien 2024-05-26 audio files of vienna category:audio files of vienna",
+   "soundCategory": "nature",
+   "place": {
+    "name": "Vienna",
+    "country": "Austria",
+    "lat": 48.2082,
+    "lon": 16.3738,
+    "precision": "city"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  },
+  {
+   "id": "commons-fms-pts-wien-3-audio-pause-51cad6f5",
+   "source": "commons",
+   "title": "FMS PTS Wien 3 Audio Pause",
+   "description": "Geräuschkulisse einer Schulpause an der Fachmittelschule und Polytechnischen Schule Wien 3, Österreich.",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/27/FMS_PTS_Wien_3_Audio_Pause.ogg/FMS_PTS_Wien_3_Audio_Pause.ogg.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:FMS_PTS_Wien_3_Audio_Pause.ogg",
+   "mime": "application/ogg",
+   "bytes": 678767,
+   "durationSec": 48,
+   "licence": {
+    "code": "cc by-sa 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attributionRequired": true,
+    "shareAlike": true
+   },
+   "author": "FMS/PTS Wien 3 (Aulona Selmani)",
+   "credit": "FMS/PTS Wien 3 (Aulona Selmani)",
+   "categories": [
+    "Items with VRTS permission confirmed",
+    "Files with PermissionTicket template but without P6305 SDC statement",
+    "Uploaded with video2commons",
+    "November 2025 in Vienna",
+    "Audio files of education",
+    "Short-duration soundscapes",
+    "Audio files of social interaction",
+    "Audio files of Vienna"
+   ],
+   "keywords": "fms pts wien 3 audio pause geräuschkulisse einer schulpause an der fachmittelschule und polytechnischen schule wien 3, österreich. items with vrts permission confirmed files with permissionticket template but without p6305 sdc statement uploaded with video2commons november 2025 in vienna audio files of education short-duration soundscapes audio files of social interaction audio files of vienna fachmittelschule und polytechnische schule wien 3 wikipedia 25 donations by fms/pts wien 3 category:audio files of vienna",
+   "soundCategory": "nature",
+   "place": {
+    "name": "Vienna",
+    "country": "Austria",
+    "lat": 48.2082,
+    "lon": 16.3738,
+    "precision": "city"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  },
+  {
+   "id": "commons-funtime-chaos-pendel-black-mamba-wurstelprater-wien-2024-pra-fd40940a",
+   "source": "commons",
+   "title": "FunTime Chaos Pendel Black Mamba Wurstelprater Wien 2024 Prater",
+   "description": "40 meter high FunTime Chaos Pendulum Black Mamba in the Prater amusement park, Vienna, 2024. Sound recordings during the “How does Vienna sound” campaign in Vienna's Wurstelprater, 2024.",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0e/FunTime_Chaos_Pendel_Black_Mamba_Wurstelprater_Wien_2024_Prater.ogg/FunTime_Chaos_Pendel_Black_Mamba_Wurstelprater_Wien_2024_Prater.ogg.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:FunTime_Chaos_Pendel_Black_Mamba_Wurstelprater_Wien_2024_Prater.ogg",
+   "mime": "application/ogg",
+   "bytes": 1711510,
+   "durationSec": 15,
+   "licence": {
+    "code": "cc by-sa 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attributionRequired": true,
+    "shareAlike": true
+   },
+   "author": "DrTrumpet",
+   "credit": "Own work",
+   "categories": [
+    "Self-published work",
+    "Files with coordinates missing SDC location of creation",
+    "Wie klingt Wien 2024-05-26",
+    "Audio files of Vienna"
+   ],
+   "keywords": "funtime chaos pendel black mamba wurstelprater wien 2024 prater 40 meter high funtime chaos pendulum black mamba in the prater amusement park, vienna, 2024. sound recordings during the “how does vienna sound” campaign in vienna's wurstelprater, 2024. self-published work files with coordinates missing sdc location of creation wie klingt wien 2024-05-26 audio files of vienna category:audio files of vienna",
+   "soundCategory": "nature",
+   "place": {
+    "name": "Vienna",
+    "country": "Austria",
+    "lat": 48.21577,
+    "lon": 16.399947,
+    "precision": "exact"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  },
+  {
+   "id": "commons-heavy-rain-in-glenshaw-pa-1fe3c170",
+   "source": "commons",
+   "title": "Heavy rain in Glenshaw, PA",
+   "description": "Sound recording (5 minutes 36 seconds) of a moderate to heavy rainfall outside a house in Glenshaw, Pennsylvania Recording using the standard Voice Recorder app on a Droid Incredible, converted to Ogg Vorbis with Audacity",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/cb/Heavy_rain_in_Glenshaw%2C_PA.ogg/Heavy_rain_in_Glenshaw%2C_PA.ogg.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Heavy_rain_in_Glenshaw,_PA.ogg",
+   "mime": "application/ogg",
+   "bytes": 1434884,
+   "durationSec": 337,
+   "licence": {
+    "code": "cc by-sa 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "attributionRequired": true,
+    "shareAlike": true
+   },
+   "author": "Sage Ross",
+   "credit": "Own work",
+   "categories": [
+    "GFDL",
+    "Allegheny County, Pennsylvania",
+    "CC-BY-SA-3.0,2.5,2.0,1.0",
+    "License migration redundant",
+    "Self-published work",
+    "Files with coordinates missing SDC location of creation",
+    "Sounds of water",
+    "Torrential rain"
+   ],
+   "keywords": "heavy rain in glenshaw, pa sound recording (5 minutes 36 seconds) of a moderate to heavy rainfall outside a house in glenshaw, pennsylvania recording using the standard voice recorder app on a droid incredible, converted to ogg vorbis with audacity gfdl allegheny county, pennsylvania cc-by-sa-3.0,2.5,2.0,1.0 license migration redundant self-published work files with coordinates missing sdc location of creation sounds of water torrential rain sounds of rain sounds of water in the united states category:sounds of rain",
+   "soundCategory": "rain",
+   "place": {
+    "name": "Sound recording (5 minutes 36 seconds) of a moderate to heav",
+    "country": "",
+    "lat": 40.53,
+    "lon": -79.97,
+    "precision": "exact"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  },
+  {
+   "id": "commons-melbourne-trams-2018-09-15-andy-mabbett-f5ffbfbd",
+   "source": "commons",
+   "title": "Melbourne trams   2018 09 15   Andy Mabbett",
+   "description": "Trams at Melbourne tram stop 14, 'Arts Precinct'. Class D2 \"Combino\" Tram 5001 stops and departs, heading out-of-city (left to right; far track) Class D1 \"Combino\" tram 3502 heading into city (right to left; near track), opens and closes doors twice, sounds bell twice, departs, pauses at signal, and resumes Class Z3 Tram 221 stops and departs, heading out-of-city Footsteps, passing cars, and a ped",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e7/Melbourne_trams_-_2018-09-15_-_Andy_Mabbett.oga/Melbourne_trams_-_2018-09-15_-_Andy_Mabbett.oga.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Melbourne_trams_-_2018-09-15_-_Andy_Mabbett.oga",
+   "mime": "application/ogg",
+   "bytes": 2169680,
+   "durationSec": 124,
+   "licence": {
+    "code": "cc by-sa 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attributionRequired": true,
+    "shareAlike": true
+   },
+   "author": "Andy Mabbett",
+   "credit": "Own work",
+   "categories": [
+    "Trams in Melbourne",
+    "Combino trams in Melbourne",
+    "Self-published work",
+    "Audio files by Andy Mabbett",
+    "Audio files made using a WMUK Zoom H1",
+    "Sounds of trams",
+    "Files with coordinates missing SDC location of creation",
+    "Audio files of Melbourne"
+   ],
+   "keywords": "melbourne trams   2018 09 15   andy mabbett trams at melbourne tram stop 14, 'arts precinct'. class d2 \"combino\" tram 5001 stops and departs, heading out-of-city (left to right; far track) class d1 \"combino\" tram 3502 heading into city (right to left; near track), opens and closes doors twice, sounds bell twice, departs, pauses at signal, and resumes class z3 tram 221 stops and departs, heading out-of-city footsteps, passing cars, and a ped trams in melbourne combino trams in melbourne self-published work audio files by andy mabbett audio files made using a wmuk zoom h1 sounds of trams files with coordinates missing sdc location of creation audio files of melbourne content media by years - supported by wikimedia uk - 2018 category:audio files of melbourne",
+   "soundCategory": "traffic",
+   "place": {
+    "name": "Melbourne",
+    "country": "Australia",
+    "lat": -37.822,
+    "lon": 144.9693,
+    "precision": "exact"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  },
+  {
+   "id": "commons-motorra-der-am-praterstern-in-wien-efc6ecf4",
+   "source": "commons",
+   "title": "Motorräder am Praterstern in Wien",
+   "description": "A group of motorcyclists at the Praterstern in Vienna",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/cd/Motorr%C3%A4der_am_Praterstern_in_Wien.ogg/Motorr%C3%A4der_am_Praterstern_in_Wien.ogg.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Motorr%C3%A4der_am_Praterstern_in_Wien.ogg",
+   "mime": "application/ogg",
+   "bytes": 206587,
+   "durationSec": 15,
+   "licence": {
+    "code": "cc by-sa 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attributionRequired": true,
+    "shareAlike": true
+   },
+   "author": "Isiwal",
+   "credit": "Own work",
+   "categories": [
+    "Praterstern, Vienna",
+    "Uploaded with VicuñaUploader",
+    "Files with coordinates missing SDC location of creation",
+    "Wie klingt Wien 2024-05-26",
+    "Sounds of motorcycles",
+    "Audio files of Vienna"
+   ],
+   "keywords": "motorräder am praterstern in wien a group of motorcyclists at the praterstern in vienna praterstern, vienna uploaded with vicuñauploader files with coordinates missing sdc location of creation wie klingt wien 2024-05-26 sounds of motorcycles audio files of vienna category:audio files of vienna",
+   "soundCategory": "nature",
+   "place": {
+    "name": "Vienna",
+    "country": "Austria",
+    "lat": 48.2168,
+    "lon": 16.3919,
+    "precision": "exact"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  },
+  {
+   "id": "commons-paisaje-sonoro-fuera-del-metro-taxquen-a-460a8d27",
+   "source": "commons",
+   "title": "Paisaje sonoro fuera del Metro Taxqueña",
+   "description": "Sound recording of the urban landscape at the exit of Metro Taxqueña. A conversation and the shout of a street vendor can be heard. Mexico City, Mexico.",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b1/Paisaje_sonoro_fuera_del_Metro_Taxque%C3%B1a.wav/Paisaje_sonoro_fuera_del_Metro_Taxque%C3%B1a.wav.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Paisaje_sonoro_fuera_del_Metro_Taxque%C3%B1a.wav",
+   "mime": "audio/wav",
+   "bytes": 5341592,
+   "durationSec": 20,
+   "licence": {
+    "code": "cc by-sa 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attributionRequired": true,
+    "shareAlike": true
+   },
+   "author": "ProtoplasmaKid",
+   "credit": "Own work",
+   "categories": [
+    "Field recording",
+    "Self-published work",
+    "Files with coordinates missing SDC location of creation",
+    "Estación Tasqueña (Metro de México)",
+    "Audio files of Mexico City"
+   ],
+   "keywords": "paisaje sonoro fuera del metro taxqueña sound recording of the urban landscape at the exit of metro taxqueña. a conversation and the shout of a street vendor can be heard. mexico city, mexico. field recording self-published work files with coordinates missing sdc location of creation estación tasqueña (metro de méxico) audio files of mexico city category:audio files of mexico city",
+   "soundCategory": "transport",
+   "place": {
+    "name": "Mexico City",
+    "country": "Mexico",
+    "lat": 19.344101,
+    "lon": -99.138192,
+    "precision": "exact"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  },
+  {
+   "id": "commons-rain-and-wind-in-london-2026-08-28-b786c47f",
+   "source": "commons",
+   "title": "Rain and wind in London 2026 08 28",
+   "description": "Rain and wind in London, England. Wikimedia (2026) makes it difficult to view files related to this file. To see its most relevant allied file groups, click on the categories at the bottom of this page, or this uploader's Audio files . This audio file is one of a series of date and/or subject allied consecutive files kept in progression or location by file name, number and/or time marking. Device ",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/73/Rain_and_wind_in_London_2026_08_28.wav/Rain_and_wind_in_London_2026_08_28.wav.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Rain_and_wind_in_London_2026_08_28.wav",
+   "mime": "audio/wav",
+   "bytes": 6050714,
+   "durationSec": 34,
+   "licence": {
+    "code": "cc by-sa 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attributionRequired": true,
+    "shareAlike": true
+   },
+   "author": "Acabashi",
+   "credit": "Own work",
+   "categories": [
+    "Soundscape",
+    "Self-published work",
+    "Rain in London",
+    "WAV files",
+    "Recordings of wind",
+    "Sounds of rain",
+    "Audio files by Acabashi",
+    "Wind in England"
+   ],
+   "keywords": "rain and wind in london 2026 08 28 rain and wind in london, england. wikimedia (2026) makes it difficult to view files related to this file. to see its most relevant allied file groups, click on the categories at the bottom of this page, or this uploader's audio files . this audio file is one of a series of date and/or subject allied consecutive files kept in progression or location by file name, number and/or time marking. device  soundscape self-published work rain in london wav files recordings of wind sounds of rain audio files by acabashi wind in england audio files of london short-duration soundscapes category:audio files of london",
+   "soundCategory": "rain",
+   "place": {
+    "name": "London",
+    "country": "United Kingdom",
+    "lat": 51.5072,
+    "lon": -0.1276,
+    "precision": "city"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  },
+  {
+   "id": "commons-saint-gervais-saint-pro-paris-2f392426",
+   "source": "commons",
+   "title": "Saint gervais saint pro   Paris",
+   "description": "Title Saint-Gervais-Saint-Protais Bells Artist aldor Original mp3 data Length:0:44 minutes (699.23 KB) Format:MP3 Stereo 44kHz 128Kbps (CBR) User tags Bells, Carllion, Cathedral, Christianity, Church, paris, Religion Type Single Subject, Human PDSounds record number 583 Comment The bells of the parisian church Saint-Gervais-Saint-Protais, Paris &gt;&gt; http://en.wikipedia.org/wiki/St-Gervais-et-S",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/61/Saint_gervais_saint_pro_-_Paris.oga/Saint_gervais_saint_pro_-_Paris.oga.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Saint_gervais_saint_pro_-_Paris.oga",
+   "mime": "application/ogg",
+   "bytes": 1161783,
+   "durationSec": 44,
+   "licence": {
+    "code": "public domain",
+    "url": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "attributionRequired": false,
+    "shareAlike": false
+   },
+   "author": "aldor",
+   "credit": "http://www.pdsounds.org/audio/download/583/Saint-Gervais.mp3 PDSounds description: http://www.pdsounds.org/sounds/saint_gervais_saint_pro Transferred by Fæ",
+   "categories": [
+    "PD-author",
+    "Église Saint-Gervais-Saint-Protais de Paris",
+    "PDsounds.org",
+    "Audio files of Paris",
+    "Sounds of church bells in France",
+    "Sound files uploaded by Fæ"
+   ],
+   "keywords": "saint gervais saint pro   paris title saint-gervais-saint-protais bells artist aldor original mp3 data length:0:44 minutes (699.23 kb) format:mp3 stereo 44khz 128kbps (cbr) user tags bells, carllion, cathedral, christianity, church, paris, religion type single subject, human pdsounds record number 583 comment the bells of the parisian church saint-gervais-saint-protais, paris &gt;&gt; http://en.wikipedia.org/wiki/st-gervais-et-s pd-author église saint-gervais-saint-protais de paris pdsounds.org audio files of paris sounds of church bells in france sound files uploaded by fæ category:audio files of paris",
+   "soundCategory": "architecture",
+   "place": {
+    "name": "Paris",
+    "country": "France",
+    "lat": 48.8566,
+    "lon": 2.3522,
+    "precision": "city"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  },
+  {
+   "id": "commons-silvester-in-berlin-fireworks-1-943f30ad",
+   "source": "commons",
+   "title": "Silvester in berlin fireworks 1",
+   "description": "Title Silvester in Berlin-fireworks-1 Artist thore Original mp3 data Length:0:08 minutes (305.15 KB) Format:MP3 Stereo 44kHz 320Kbps (CBR) User tags *hissss*, crackling, exploding, Fireworks Type Natural, Characteristic PDSounds record number 415 Comment Silvester after midnight in Berlin, Weinbergspark, Fireworks.",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/37/Silvester_in_berlin_fireworks_1.ogg/Silvester_in_berlin_fireworks_1.ogg.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Silvester_in_berlin_fireworks_1.ogg",
+   "mime": "application/ogg",
+   "bytes": 264327,
+   "durationSec": 8,
+   "licence": {
+    "code": "public domain",
+    "url": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "attributionRequired": false,
+    "shareAlike": false
+   },
+   "author": "thore",
+   "credit": "http://www.pdsounds.org/audio/download/415/08-01-01-Silvester+in+Berlin-fireworks-1.mp3 PDSounds description: http://www.pdsounds.org/sounds/silvester_in_berlin_fireworks_1 Transferred by Fæ",
+   "categories": [
+    "PD-author",
+    "PDsounds.org",
+    "Audio files of Berlin",
+    "Sound files uploaded by Fæ"
+   ],
+   "keywords": "silvester in berlin fireworks 1 title silvester in berlin-fireworks-1 artist thore original mp3 data length:0:08 minutes (305.15 kb) format:mp3 stereo 44khz 320kbps (cbr) user tags *hissss*, crackling, exploding, fireworks type natural, characteristic pdsounds record number 415 comment silvester after midnight in berlin, weinbergspark, fireworks. pd-author pdsounds.org audio files of berlin sound files uploaded by fæ category:audio files of berlin",
+   "soundCategory": "nature",
+   "place": {
+    "name": "Berlin",
+    "country": "Germany",
+    "lat": 52.52,
+    "lon": 13.405,
+    "precision": "city"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  },
+  {
+   "id": "commons-sire-ne-d-alerte-signal-d-essai-187c235c",
+   "source": "commons",
+   "title": "Sirène d'alerte   Signal d'essai",
+   "description": "Signal d'essai mensuel de sirène d'alerte, enregistré au Jardin des Plantes, a caen. Des mouettes dérangées protestent bruyamment, et un joggeur passe vers la fin de l'enregistrement.",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/95/Sir%C3%A8ne_d%27alerte_-_Signal_d%27essai.ogg/Sir%C3%A8ne_d%27alerte_-_Signal_d%27essai.ogg.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Sir%C3%A8ne_d%27alerte_-_Signal_d%27essai.ogg",
+   "mime": "application/ogg",
+   "bytes": 1639549,
+   "durationSec": 91,
+   "licence": {
+    "code": "cc by-sa 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attributionRequired": true,
+    "shareAlike": true
+   },
+   "author": "Litlok",
+   "credit": "Own work",
+   "categories": [
+    "Supported by Wikimedia France",
+    "Sounds of warning sirens",
+    "Self-published work",
+    "Warning sirens in France",
+    "Media supported by Wikimedia France",
+    "Audio files of Paris",
+    "Audio files supported by Wikimedia France - Zoom H4n",
+    "Files with coordinates missing SDC location of creation (48° N, 2° E)"
+   ],
+   "keywords": "sirène d'alerte   signal d'essai signal d'essai mensuel de sirène d'alerte, enregistré au jardin des plantes, a caen. des mouettes dérangées protestent bruyamment, et un joggeur passe vers la fin de l'enregistrement. supported by wikimedia france sounds of warning sirens self-published work warning sirens in france media supported by wikimedia france audio files of paris audio files supported by wikimedia france - zoom h4n files with coordinates missing sdc location of creation (48° n, 2° e) category:audio files of paris",
+   "soundCategory": "nature",
+   "place": {
+    "name": "Paris",
+    "country": "France",
+    "lat": 48.842841,
+    "lon": 2.360024,
+    "precision": "exact"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  },
+  {
+   "id": "commons-sonido-de-flauta-de-afilador-en-la-ciudad-de-me-xico-4a591e3d",
+   "source": "commons",
+   "title": "Sonido de flauta de afilador en la Ciudad de México",
+   "description": "Recording of the flute sound of a walking knife sharpener. Mexico City, Mexico.",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/11/Sonido_de_flauta_de_afilador_en_la_Ciudad_de_M%C3%A9xico.ogg/Sonido_de_flauta_de_afilador_en_la_Ciudad_de_M%C3%A9xico.ogg.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Sonido_de_flauta_de_afilador_en_la_Ciudad_de_M%C3%A9xico.ogg",
+   "mime": "application/ogg",
+   "bytes": 293786,
+   "durationSec": 6,
+   "licence": {
+    "code": "cc by-sa 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attributionRequired": true,
+    "shareAlike": true
+   },
+   "author": "ProtoplasmaKid",
+   "credit": "Own work",
+   "categories": [
+    "Knife sharpeners",
+    "Self-published work",
+    "Audios by ProtoplasmaKid",
+    "January 2019 in Mexico City",
+    "Audio files of Mexico City"
+   ],
+   "keywords": "sonido de flauta de afilador en la ciudad de méxico recording of the flute sound of a walking knife sharpener. mexico city, mexico. knife sharpeners self-published work audios by protoplasmakid january 2019 in mexico city audio files of mexico city category:audio files of mexico city",
+   "soundCategory": "city",
+   "place": {
+    "name": "Mexico City",
+    "country": "Mexico",
+    "lat": 19.4326,
+    "lon": -99.1332,
+    "precision": "city"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  },
+  {
+   "id": "commons-sydney-tram-18-2016-02-14-46daf596",
+   "source": "commons",
+   "title": "Sydney tram 18   2016 02 14",
+   "description": "Audio recording of tram number 18 at Central Station, Sydney, Australia. The vehicle is stationary, as passengers board, The driver sounds a warning bell, several times, to warn of the impending closure of the doors. The doors close, and the tram departs, passing the microphone from right to left.",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b1/Sydney_tram_18_-_2016-02-14.ogg/Sydney_tram_18_-_2016-02-14.ogg.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Sydney_tram_18_-_2016-02-14.ogg",
+   "mime": "application/ogg",
+   "bytes": 1784649,
+   "durationSec": 90,
+   "licence": {
+    "code": "cc by-sa 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attributionRequired": true,
+    "shareAlike": true
+   },
+   "author": "Andy Mabbett",
+   "credit": "Own work",
+   "categories": [
+    "2016-02-14",
+    "Self-published work",
+    "Audio files by Andy Mabbett",
+    "Audio files of 2016",
+    "February 2016 in New South Wales",
+    "Audio files made using a WMUK Zoom H1",
+    "Sounds of trams",
+    "Central (Grand Concourse) light rail stop, Sydney"
+   ],
+   "keywords": "sydney tram 18   2016 02 14 audio recording of tram number 18 at central station, sydney, australia. the vehicle is stationary, as passengers board, the driver sounds a warning bell, several times, to warn of the impending closure of the doors. the doors close, and the tram departs, passing the microphone from right to left. 2016-02-14 self-published work audio files by andy mabbett audio files of 2016 february 2016 in new south wales audio files made using a wmuk zoom h1 sounds of trams central (grand concourse) light rail stop, sydney urbos 3 in sydney content media by years - supported by wikimedia uk - 2016 audio files of sydney category:audio files of sydney",
+   "soundCategory": "water",
+   "place": {
+    "name": "Sydney",
+    "country": "Australia",
+    "lat": -33.8688,
+    "lon": 151.2093,
+    "precision": "city"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  },
+  {
+   "id": "commons-thunder-claps-b9c10309",
+   "source": "commons",
+   "title": "Thunder Claps",
+   "description": "A recording of thunder at approximately 2500 ft. There is an audible blip in the recording at 1.6 seconds which is the flash of lighting, followed by the thunder sound 2.1 seconds later, indicating this was recorded at about 2500 feet from the origin. Two audible bolts (thunderclaps) are also heard clearly in this clip.",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/54/Thunder_Claps.ogg/Thunder_Claps.ogg.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Thunder_Claps.ogg",
+   "mime": "application/ogg",
+   "bytes": 2781953,
+   "durationSec": 45,
+   "licence": {
+    "code": "cc by-sa 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attributionRequired": true,
+    "shareAlike": true
+   },
+   "author": "Jonathan Hunt",
+   "credit": "Own work",
+   "categories": [
+    "Self-published work",
+    "Audio files of thunder",
+    "Files with coordinates missing SDC location of creation",
+    "Sounds of rain",
+    "Sounds of water in the United States",
+    "Audio files made using a Zoom H6"
+   ],
+   "keywords": "thunder claps a recording of thunder at approximately 2500 ft. there is an audible blip in the recording at 1.6 seconds which is the flash of lighting, followed by the thunder sound 2.1 seconds later, indicating this was recorded at about 2500 feet from the origin. two audible bolts (thunderclaps) are also heard clearly in this clip. self-published work audio files of thunder files with coordinates missing sdc location of creation sounds of rain sounds of water in the united states audio files made using a zoom h6 category:sounds of rain",
+   "soundCategory": "rain",
+   "place": {
+    "name": "A recording of thunder at approximately 2500 ft. There is an",
+    "country": "",
+    "lat": 41.56425,
+    "lon": -71.11739,
+    "precision": "exact"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  },
+  {
+   "id": "commons-tram-doors-open-and-close-hiss-and-beeping-da05254c",
+   "source": "commons",
+   "title": "Tram doors open and close hiss and beeping",
+   "description": "Title Tram Doors open and close, hiss and beeping Artist stephan Original mp3 data Length:0:14 minutes (331.06 KB) Format:MP3 Stereo 44kHz 192Kbps (CBR) User tags *tack*, Beeping, Closing, opening, shut down, Signal, Sliding Doors, Train, Tram Type Single Subject, Natural PDSounds record number 240 Comment Public transportation in Cologne, Germany. Opening doors, giving warning signal and shutting",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b9/Tram_doors_open_and_close_hiss_and_beeping.ogg/Tram_doors_open_and_close_hiss_and_beeping.ogg.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Tram_doors_open_and_close_hiss_and_beeping.ogg",
+   "mime": "application/ogg",
+   "bytes": 356740,
+   "durationSec": 14,
+   "licence": {
+    "code": "public domain",
+    "url": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "attributionRequired": false,
+    "shareAlike": false
+   },
+   "author": "stephan",
+   "credit": "http://www.pdsounds.org/audio/download/240/tram+doors.mp3 PDSounds description: http://www.pdsounds.org/sounds/tram_doors_open_and_close_hiss_and_beeping Transferred by Fæ",
+   "categories": [
+    "PD-author",
+    "PDsounds.org",
+    "Audio files of Cologne",
+    "Tram doors in Germany",
+    "Sound files uploaded by Fæ"
+   ],
+   "keywords": "tram doors open and close hiss and beeping title tram doors open and close, hiss and beeping artist stephan original mp3 data length:0:14 minutes (331.06 kb) format:mp3 stereo 44khz 192kbps (cbr) user tags *tack*, beeping, closing, opening, shut down, signal, sliding doors, train, tram type single subject, natural pdsounds record number 240 comment public transportation in cologne, germany. opening doors, giving warning signal and shutting pd-author pdsounds.org audio files of cologne tram doors in germany sound files uploaded by fæ category:audio files of cologne",
+   "soundCategory": "traffic",
+   "place": {
+    "name": "Cologne",
+    "country": "Germany",
+    "lat": 50.9375,
+    "lon": 6.9603,
+    "precision": "city"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  },
+  {
+   "id": "commons-tram-sound-in-lyon-france-c8873765",
+   "source": "commons",
+   "title": "Tram sound in Lyon, France",
+   "description": "The sound of a tram from Lyon , France .",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a5/Tram_sound_in_Lyon%2C_France.ogg/Tram_sound_in_Lyon%2C_France.ogg.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Tram_sound_in_Lyon,_France.ogg",
+   "mime": "application/ogg",
+   "bytes": 1275898,
+   "durationSec": 78,
+   "licence": {
+    "code": "cc by 3.0",
+    "url": "https://creativecommons.org/licenses/by/3.0/",
+    "attributionRequired": true,
+    "shareAlike": false
+   },
+   "author": "Glaneur de sons",
+   "credit": "This media file comes from Freesound.org , a collection of Creative Commons licensed audio samples. For more information, please see their official website www.freesound.org",
+   "categories": [
+    "Files from external sources with reviewed licenses",
+    "Trams in Lyon",
+    "Sounds of rail transport in France",
+    "Files uploaded by TeleComNasSprVen",
+    "Files from Freesound.org",
+    "Sounds of trams",
+    "Audio files of Lyon"
+   ],
+   "keywords": "tram sound in lyon, france the sound of a tram from lyon , france . files from external sources with reviewed licenses trams in lyon sounds of rail transport in france files uploaded by telecomnassprven files from freesound.org sounds of trams audio files of lyon category:audio files of lyon",
+   "soundCategory": "traffic",
+   "place": {
+    "name": "Lyon",
+    "country": "France",
+    "lat": 45.764,
+    "lon": 4.8357,
+    "precision": "city"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  },
+  {
+   "id": "commons-u-bahnstation-wien-praterstern-rolltreppe-b73ec0fb",
+   "source": "commons",
+   "title": "U Bahnstation Wien Praterstern Rolltreppe",
+   "description": "Sounds of an escalator in the Praterstern subway station in Vienna",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/45/U-Bahnstation_Wien_Praterstern_Rolltreppe.ogg/U-Bahnstation_Wien_Praterstern_Rolltreppe.ogg.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:U-Bahnstation_Wien_Praterstern_Rolltreppe.ogg",
+   "mime": "application/ogg",
+   "bytes": 117620,
+   "durationSec": 8,
+   "licence": {
+    "code": "cc by-sa 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attributionRequired": true,
+    "shareAlike": true
+   },
+   "author": "Isiwal",
+   "credit": "Own work",
+   "categories": [
+    "Praterstern metro station",
+    "Uploaded with VicuñaUploader",
+    "Escalators in Vienna",
+    "Files with coordinates missing SDC location of creation",
+    "Wie klingt Wien 2024-05-26",
+    "Audio files of Vienna"
+   ],
+   "keywords": "u bahnstation wien praterstern rolltreppe sounds of an escalator in the praterstern subway station in vienna praterstern metro station uploaded with vicuñauploader escalators in vienna files with coordinates missing sdc location of creation wie klingt wien 2024-05-26 audio files of vienna category:audio files of vienna",
+   "soundCategory": "transport",
+   "place": {
+    "name": "Vienna",
+    "country": "Austria",
+    "lat": 48.2182,
+    "lon": 16.3916,
+    "precision": "exact"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  },
+  {
+   "id": "commons-vacuum-street-cleaners-after-street-parade-2c03fd3d",
+   "source": "commons",
+   "title": "Vacuum street cleaners after street parade",
+   "description": "Title Vacuum Street Cleaners after Street Parade Artist stephan Original mp3 data Length:4:45 minutes (4.35 MB) Format:MP3 Stereo 44kHz 128Kbps (CBR) User tags Air, Carnival, City, Mardi Gras, Street Parade, Streets, sweeping, swishing, vacuum cleaner, Vehicle, whooshing Type Single Subject, Natural PDSounds record number 357 Comment Cleanup by Vacuum-Street-Cleaner-Trucks after carnival, \"Mardi G",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8b/Vacuum_street_cleaners_after_street_parade.ogg/Vacuum_street_cleaners_after_street_parade.ogg.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Vacuum_street_cleaners_after_street_parade.ogg",
+   "mime": "application/ogg",
+   "bytes": 7603176,
+   "durationSec": 326,
+   "licence": {
+    "code": "public domain",
+    "url": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "attributionRequired": false,
+    "shareAlike": false
+   },
+   "author": "stephan",
+   "credit": "http://www.pdsounds.org/audio/download/357/street+parade+cleanup.mp3 PDSounds description: http://www.pdsounds.org/sounds/vacuum_street_cleaners_after_street_parade Transferred by Fæ",
+   "categories": [
+    "PD-author",
+    "PDsounds.org",
+    "Audio files of Cologne",
+    "Sound files uploaded by Fæ"
+   ],
+   "keywords": "vacuum street cleaners after street parade title vacuum street cleaners after street parade artist stephan original mp3 data length:4:45 minutes (4.35 mb) format:mp3 stereo 44khz 128kbps (cbr) user tags air, carnival, city, mardi gras, street parade, streets, sweeping, swishing, vacuum cleaner, vehicle, whooshing type single subject, natural pdsounds record number 357 comment cleanup by vacuum-street-cleaner-trucks after carnival, \"mardi g pd-author pdsounds.org audio files of cologne sound files uploaded by fæ category:audio files of cologne",
+   "soundCategory": "city",
+   "place": {
+    "name": "Cologne",
+    "country": "Germany",
+    "lat": 50.9375,
+    "lon": 6.9603,
+    "precision": "city"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  },
+  {
+   "id": "commons-vojni-kov-lavic-ka-pr-ed-pomni-kem-c-tvrtek-25-stupn-u-0781e9b4",
+   "source": "commons",
+   "title": "Vojníkov, lavička před pomníkem, čtvrtek, 25 stupňů",
+   "description": "Recording of an environment taken at Vojníkov nearby WWI memorial, Czech Republic. Start: 1.06 pm., 25 °C at sunny with slow wind.",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/bb/Vojn%C3%ADkov%2C_lavi%C4%8Dka_p%C5%99ed_pomn%C3%ADkem%2C_%C4%8Dtvrtek%2C_25_stup%C5%88%C5%AF.ogg/Vojn%C3%ADkov%2C_lavi%C4%8Dka_p%C5%99ed_pomn%C3%ADkem%2C_%C4%8Dtvrtek%2C_25_stup%C5%88%C5%AF.ogg.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Vojn%C3%ADkov,_lavi%C4%8Dka_p%C5%99ed_pomn%C3%ADkem,_%C4%8Dtvrtek,_25_stup%C5%88%C5%AF.ogg",
+   "mime": "application/ogg",
+   "bytes": 11830710,
+   "durationSec": 609,
+   "licence": {
+    "code": "public domain",
+    "url": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "attributionRequired": false,
+    "shareAlike": false
+   },
+   "author": "Juandev",
+   "credit": "Own work",
+   "categories": [
+    "PD ineligible",
+    "Personality rights warning",
+    "Vojníkov",
+    "Files by Juandev",
+    "Recordings by Juandev",
+    "Recordings of wind",
+    "Audio files in Czech",
+    "Audio files of the Doppler effect"
+   ],
+   "keywords": "vojníkov, lavička před pomníkem, čtvrtek, 25 stupňů recording of an environment taken at vojníkov nearby wwi memorial, czech republic. start: 1.06 pm., 25 °c at sunny with slow wind. pd ineligible personality rights warning vojníkov files by juandev recordings by juandev recordings of wind audio files in czech audio files of the doppler effect files with coordinates missing sdc location of creation unidentified birds by sound recordings of babies crying recordings of planes category:recordings of wind",
+   "soundCategory": "weather",
+   "place": {
+    "name": "Recording of an environment taken at Vojníkov nearby WWI mem",
+    "country": "",
+    "lat": 49.353903,
+    "lon": 14.177925,
+    "precision": "exact"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  },
+  {
+   "id": "commons-vojni-kov-pr-ed-kaplic-kou-c-tvrtek-84d28f0a",
+   "source": "commons",
+   "title": "Vojníkov, před kapličkou, čtvrtek",
+   "description": "Recording of an ambient in Vojníkov village in front of a chapel. Czech republic. Start: 12:54 in the direction of north.",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4f/Vojn%C3%ADkov%2C_p%C5%99ed_kapli%C4%8Dkou%2C_%C4%8Dtvrtek.ogg/Vojn%C3%ADkov%2C_p%C5%99ed_kapli%C4%8Dkou%2C_%C4%8Dtvrtek.ogg.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Vojn%C3%ADkov,_p%C5%99ed_kapli%C4%8Dkou,_%C4%8Dtvrtek.ogg",
+   "mime": "application/ogg",
+   "bytes": 11833701,
+   "durationSec": 618,
+   "licence": {
+    "code": "public domain",
+    "url": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "attributionRequired": false,
+    "shareAlike": false
+   },
+   "author": "Juandev",
+   "credit": "Own work",
+   "categories": [
+    "PD ineligible",
+    "Vojníkov",
+    "Files by Juandev",
+    "Recordings by Juandev",
+    "Recordings of wind",
+    "Audio files about vehicle engines",
+    "Files with coordinates missing SDC location of creation",
+    "Unidentified birds by sound"
+   ],
+   "keywords": "vojníkov, před kapličkou, čtvrtek recording of an ambient in vojníkov village in front of a chapel. czech republic. start: 12:54 in the direction of north. pd ineligible vojníkov files by juandev recordings by juandev recordings of wind audio files about vehicle engines files with coordinates missing sdc location of creation unidentified birds by sound category:recordings of wind",
+   "soundCategory": "weather",
+   "place": {
+    "name": "Recording of an ambient in Vojníkov village in front of a ch",
+    "country": "",
+    "lat": 49.353614,
+    "lon": 14.176581,
+    "precision": "exact"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  },
+  {
+   "id": "commons-walking-through-snow-2101781e",
+   "source": "commons",
+   "title": "Walking through snow",
+   "description": "Walking through snow in Berlin, Germany",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Walking_through_snow.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Walking_through_snow.mp3",
+   "mime": "audio/mpeg",
+   "bytes": 220766,
+   "durationSec": 14,
+   "licence": {
+    "code": "cc by 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attributionRequired": true,
+    "shareAlike": false
+   },
+   "author": "Lukas Beck",
+   "credit": "Own work",
+   "categories": [
+    "Self-published work",
+    "Audio files of Berlin",
+    "Sounds of nature",
+    "Sounds created by people",
+    "Sounds relating to snow",
+    "Germany audio files of 2026",
+    "2026-01-03"
+   ],
+   "keywords": "walking through snow walking through snow in berlin, germany self-published work audio files of berlin sounds of nature sounds created by people sounds relating to snow germany audio files of 2026 2026-01-03 category:audio files of berlin",
+   "soundCategory": "weather",
+   "place": {
+    "name": "Berlin",
+    "country": "Germany",
+    "lat": 52.52,
+    "lon": 13.405,
+    "precision": "city"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  },
+  {
+   "id": "commons-wind-in-swedish-pine-forest-at-25-mps-843a94eb",
+   "source": "commons",
+   "title": "Wind in Swedish pine forest at 25 mps",
+   "description": "Sound of wind blowing at 25 meters per second recorded in a pine forest in Tuntorp, Brastad, Lysekil Municipality, Sweden. Recording was made with the internal microphones of a camera, Sony Cyber-shot DSC-RX100. A makeshift microphone windshield made from polyester Fiber Fill was used.",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f3/Wind_in_Swedish_pine_forest_at_25_mps.ogg/Wind_in_Swedish_pine_forest_at_25_mps.ogg.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Wind_in_Swedish_pine_forest_at_25_mps.ogg",
+   "mime": "application/ogg",
+   "bytes": 1909781,
+   "durationSec": 60,
+   "licence": {
+    "code": "cc by-sa 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attributionRequired": true,
+    "shareAlike": true
+   },
+   "author": "W.carter",
+   "credit": "Own work",
+   "categories": [
+    "Self-published work",
+    "Audio files of Sweden",
+    "Recordings of wind",
+    "Files with coordinates missing SDC location of creation",
+    "Wind in Sweden",
+    "Tuntorp, Brastad",
+    "Audio by W.carter"
+   ],
+   "keywords": "wind in swedish pine forest at 25 mps sound of wind blowing at 25 meters per second recorded in a pine forest in tuntorp, brastad, lysekil municipality, sweden. recording was made with the internal microphones of a camera, sony cyber-shot dsc-rx100. a makeshift microphone windshield made from polyester fiber fill was used. self-published work audio files of sweden recordings of wind files with coordinates missing sdc location of creation wind in sweden tuntorp, brastad audio by w.carter category:recordings of wind",
+   "soundCategory": "weather",
+   "place": {
+    "name": "Sound of wind blowing at 25 meters per second recorded in a ",
+    "country": "",
+    "lat": 58.385261,
+    "lon": 11.474762,
+    "precision": "exact"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  },
+  {
+   "id": "commons-wind-sounds-2020-05-10-1625-494894cb",
+   "source": "commons",
+   "title": "Wind sounds 2020 05 10 1625",
+   "description": "Recorded to accompany Geograph image File:The woodland edge - geograph.org.uk - 6469042.jpg during a blustery afternoon of Northerly winds. The recording was made just under the edge of the trees where the woodland overhangs the gardens. The Geograph page also links to a YouTube video made at the same time - https://www.youtube.com/watch?v=pTOT6gG05tw",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Wind_sounds_2020-05-10_1625.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Wind_sounds_2020-05-10_1625.mp3",
+   "mime": "audio/mpeg",
+   "bytes": 24253824,
+   "durationSec": 811,
+   "licence": {
+    "code": "cc by-sa 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attributionRequired": true,
+    "shareAlike": true
+   },
+   "author": "Robert EA Harvey",
+   "credit": "Own work",
+   "categories": [
+    "Bourne, Lincolnshire",
+    "Soundscape",
+    "Self-published work",
+    "Recordings of wind",
+    "Files with coordinates missing SDC location of creation (52° N, 1° W)"
+   ],
+   "keywords": "wind sounds 2020 05 10 1625 recorded to accompany geograph image file:the woodland edge - geograph.org.uk - 6469042.jpg during a blustery afternoon of northerly winds. the recording was made just under the edge of the trees where the woodland overhangs the gardens. the geograph page also links to a youtube video made at the same time - https://www.youtube.com/watch?v=ptot6gg05tw bourne, lincolnshire soundscape self-published work recordings of wind files with coordinates missing sdc location of creation (52° n, 1° w) category:soundscape",
+   "soundCategory": "weather",
+   "place": {
+    "name": "Recorded to accompany Geograph image File:The woodland edge ",
+    "country": "",
+    "lat": 52.772548,
+    "lon": -0.392982,
+    "precision": "exact"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  },
+  {
+   "id": "commons-wurstelprater-wien-2024-bandito-rennbahn-go-kart-037312e5",
+   "source": "commons",
+   "title": "Wurstelprater Wien 2024 Bandito Rennbahn Go Kart",
+   "description": "Wurstelprater Vienna 2024: Bandito race track go-kart petrol engine in the Prater. Sound recordings during the “How does Vienna sound” campaign in the Vienna Prater, 2024.",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a2/Wurstelprater_Wien_2024_Bandito_Rennbahn_Go-Kart.ogg/Wurstelprater_Wien_2024_Bandito_Rennbahn_Go-Kart.ogg.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Wurstelprater_Wien_2024_Bandito_Rennbahn_Go-Kart.ogg",
+   "mime": "application/ogg",
+   "bytes": 2575925,
+   "durationSec": 20,
+   "licence": {
+    "code": "cc by-sa 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attributionRequired": true,
+    "shareAlike": true
+   },
+   "author": "DrTrumpet",
+   "credit": "Own work",
+   "categories": [
+    "Self-published work",
+    "Files with coordinates missing SDC location of creation",
+    "Wie klingt Wien 2024-05-26",
+    "Audio files of Vienna"
+   ],
+   "keywords": "wurstelprater wien 2024 bandito rennbahn go kart wurstelprater vienna 2024: bandito race track go-kart petrol engine in the prater. sound recordings during the “how does vienna sound” campaign in the vienna prater, 2024. self-published work files with coordinates missing sdc location of creation wie klingt wien 2024-05-26 audio files of vienna category:audio files of vienna",
+   "soundCategory": "traffic",
+   "place": {
+    "name": "Vienna",
+    "country": "Austria",
+    "lat": 48.21577,
+    "lon": 16.399947,
+    "precision": "exact"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  },
+  {
+   "id": "commons-wurstelprater-wien-2024-gokart-honda-d296fdd3",
+   "source": "commons",
+   "title": "Wurstelprater Wien 2024 GoKart Honda",
+   "description": "Vienna Wurstelprater kart track - Honda 200 cm³ go-kart (throttled to 30 km/h) in the Vienna Prater 2024. Sound recording “How does Vienna sound” (Zoom H6).",
+   "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/52/Wurstelprater_Wien_2024_GoKart_Honda.ogg/Wurstelprater_Wien_2024_GoKart_Honda.ogg.mp3",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Wurstelprater_Wien_2024_GoKart_Honda.ogg",
+   "mime": "application/ogg",
+   "bytes": 10784557,
+   "durationSec": 84,
+   "licence": {
+    "code": "cc by-sa 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attributionRequired": true,
+    "shareAlike": true
+   },
+   "author": "DrTrumpet",
+   "credit": "Own work",
+   "categories": [
+    "Self-published work",
+    "Files with coordinates missing SDC location of creation",
+    "Wie klingt Wien 2024-05-26",
+    "Audio files of Vienna"
+   ],
+   "keywords": "wurstelprater wien 2024 gokart honda vienna wurstelprater kart track - honda 200 cm³ go-kart (throttled to 30 km/h) in the vienna prater 2024. sound recording “how does vienna sound” (zoom h6). self-published work files with coordinates missing sdc location of creation wie klingt wien 2024-05-26 audio files of vienna category:audio files of vienna",
+   "soundCategory": "nature",
+   "place": {
+    "name": "Vienna",
+    "country": "Austria",
+    "lat": 48.21577,
+    "lon": 16.399947,
+    "precision": "exact"
+   },
+   "recordedAt": null,
+   "licenseVerified": true
+  }
+ ]
+}
