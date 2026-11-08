@@ -294,7 +294,7 @@ during the playback test.
 check. Latest run against <https://iiiiiiiiiiiiikk.github.io/sound-atlas/>:
 
 ```
-16/16 checks passed.
+19/19 checks passed.
 ```
 
 | Check | Result |
@@ -323,7 +323,7 @@ check. Latest run against <https://iiiiiiiiiiiiikk.github.io/sound-atlas/>:
 
 上线后另做生产环境自动化验收：首页 200 与标题、作者 X 链接、54 条录音统计、
 31 个地图聚合点、15 张底图瓦片、`Showing 62 of 150`、真实播放请求与 `playing` 状态、
-控制台无未捕获错误、移动端八条路由 0px 溢出、移动端菜单 6 个入口，全部通过。
+控制台无未捕获错误、移动端八条路由 0px 溢出、移动端菜单 6 个入口，19/19 全部通过。
 
 ---
 
