@@ -81,7 +81,7 @@ export function CollectionDetailPage() {
           {t('explore.loading')}
         </div>
       ) : sounds.length ? (
-        <div className="mt-5 grid gap-2 sm:grid-cols-2">
+        <div className="mt-5 grid min-w-0 gap-2 sm:grid-cols-2">
           {sounds.map((sound) => (
             <SoundCard key={sound.id} sound={sound} queue={sounds} />
           ))}

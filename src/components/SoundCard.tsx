@@ -35,7 +35,7 @@ export function SoundCard({ sound, queue, compact = false }: SoundCardProps) {
 
   return (
     <article
-      className="group flex items-start gap-3 rounded-xl border p-3 transition-colors"
+      className="group flex min-w-0 items-start gap-3 rounded-xl border p-3 transition-colors"
       style={{
         borderColor: isCurrent ? 'color-mix(in srgb, var(--accent) 45%, var(--border))' : 'var(--border)',
         background: isCurrent ? 'color-mix(in srgb, var(--accent) 7%, var(--bg-raised))' : 'var(--bg-raised)',

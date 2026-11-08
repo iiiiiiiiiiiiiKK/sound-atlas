@@ -37,7 +37,7 @@ export function CollectionsPage() {
           {t('explore.loading')}
         </div>
       ) : (
-        <div className="mt-5 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+        <div className="mt-5 grid min-w-0 gap-3 sm:grid-cols-2 lg:grid-cols-3">
           {resolved.map(({ collection, sounds }) => {
             const totalSeconds = sounds.reduce((sum, sound) => sum + (sound.durationSec ?? 0), 0);
             const lead = sounds[0];
@@ -45,14 +45,14 @@ export function CollectionsPage() {
             return (
               <article
                 key={collection.id}
-                className="flex flex-col rounded-xl border p-4 transition-colors"
+                className="flex min-w-0 flex-col rounded-xl border p-4 transition-colors"
                 style={{ borderColor: 'var(--border)', background: 'var(--bg-raised)' }}
               >
                 <div
-                  className="mb-3 flex h-24 items-end justify-between rounded-lg p-3"
+                  className="mb-3 flex h-24 min-w-0 items-end justify-between gap-2 rounded-lg p-3"
                   style={{ background: `linear-gradient(150deg, color-mix(in srgb, ${color} 26%, transparent), transparent 78%)` }}
                 >
-                  <div>
+                  <div className="min-w-0">
                     <h2 className="text-[15px] font-semibold leading-tight">{t(collection.titleKey)}</h2>
                     <div className="mt-1 font-mono text-[11px]" style={{ color: 'var(--text-mute)' }}>
                       {t('collections.count', { n: sounds.length })}
@@ -77,11 +77,11 @@ export function CollectionsPage() {
                 </p>
 
                 {sounds.length ? (
-                  <ul className="mt-3 flex flex-col gap-1">
+                  <ul className="mt-3 flex min-w-0 flex-col gap-1">
                     {sounds.slice(0, 3).map((sound) => (
-                      <li key={sound.id} className="flex items-center gap-1.5 text-[11.5px]" style={{ color: 'var(--text-dim)' }}>
+                      <li key={sound.id} className="flex min-w-0 items-center gap-1.5 text-[11.5px]" style={{ color: 'var(--text-dim)' }}>
                         <CategoryDot category={sound.soundCategory} size={6} />
-                        <span className="truncate">{sound.title}</span>
+                        <span className="min-w-0 truncate">{sound.title}</span>
                       </li>
                     ))}
                   </ul>

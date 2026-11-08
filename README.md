@@ -78,9 +78,9 @@ All images are captured from the production build by `npm run shots` — not moc
 | Random sound | "Take me somewhere" — a seeded pick from sounds that play right now | 「带我去个地方」——从当前可播放的声音中随机抽取 |
 | Collections | Six themed sets resolved live from the providers, never a hard-coded list | 六个专题，实时查询生成，绝不硬编码清单 |
 | Personal sound maps | Group sounds into your own themed maps | 把声音组织成自己的主题地图 |
-| Sound journeys | An ordered listening route through real places, reorderable, skippable | 按地点顺序聆听的·线，可拖动排序、可跳过 |
+| Sound journeys | An ordered listening route through real places, reorderable, skippable | 按地点顺序聆听的路线，可拖动排序、可跳过 |
 | Upload / record | Upload a file or record from the microphone (MediaRecorder), stored locally | 上传文件或直接用麦克风录制，保存在本机 |
-| Library | Saved sounds, play history, maps, journeys, recordings, JSON export / import | 收藏、播放记录、地图、·线、录音、JSON 导出导入 |
+| Library | Saved sounds, play history, maps, journeys, recordings, JSON export / import | 收藏、播放记录、地图、路线、录音、JSON 导出导入 |
 | Sharing | Per-sound deep link, copyable, resolves after a hard reload | 每段声音的独立链接，刷新后仍可打开 |
 | Bilingual | Complete English and 简体中文, browser-detected, switchable | 完整中英双语，按浏览器语言自动选择，可切换 |
 | Themes | Dark and light, persisted | 深色与浅色主题，可记忆 |
@@ -309,7 +309,7 @@ check. Latest run against <https://iiiiiiiiiiiiikk.github.io/sound-atlas/>:
 | Playback requests a real archive file | `upload.wikimedia.org/…` |
 | Player reaches the `playing` state | pass |
 | No uncaught page errors | pass |
-| No horizontal overflow on `/`, `/explore`, `/collections`, `/library`, `/about` | 0 px each |
+| No horizontal overflow on `/`, `/explore`, `/collections`, `/journeys`, `/upload`, `/library`, `/about`, `/random` | 0 px each |
 | Mobile menu destinations | 6 links |
 
 ### 中文测试说明
@@ -317,13 +317,13 @@ check. Latest run against <https://iiiiiiiiiiiiikk.github.io/sound-atlas/>:
 单元测试 42 个全部通过，覆盖格式化、双语词典、本地存储（含导入不覆盖、坏文件被拒绝）、
 数据源筛选与去重、音频引擎空状态安全、专题解析。端到端测试共 44 个用例（41 通过、
 3 个仅在移动端项目运行的用例在桌面项目中跳过），在**生产构建**上运行，桌面与 iPhone 14
-两个项目，验证·由、深链刷新、语言与主题持久化、地图打点、地点搜索、筛选、播放
-（真实请求到档案站）、收藏持久化、导出下载、错误导入提示、·线创建、上传与版权确认、
-移动端菜单，以及全部八条·由在 390px 宽度下无横向溢出。
+两个项目，验证路由、深链刷新、语言与主题持久化、地图打点、地点搜索、筛选、播放
+（真实请求到档案站）、收藏持久化、导出下载、错误导入提示、路线创建、上传与版权确认、
+移动端菜单，以及全部八条路由在 390px 宽度下无横向溢出。
 
 上线后另做生产环境自动化验收：首页 200 与标题、作者 X 链接、54 条录音统计、
 31 个地图聚合点、15 张底图瓦片、`Showing 62 of 150`、真实播放请求与 `playing` 状态、
-控制台无未捕获错误、移动端五条·由 0px 溢出、移动端菜单 6 个入口，16/16 全部通过。
+控制台无未捕获错误、移动端八条路由 0px 溢出、移动端菜单 6 个入口，全部通过。
 
 ---
 

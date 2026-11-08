@@ -82,7 +82,7 @@ try {
   // -------------------------------------------------------------- mobile
   const mobileContext = await browser.newContext({ ...devices['iPhone 14'] });
   const phone = await mobileContext.newPage();
-  for (const route of ['/', '/explore', '/collections', '/library', '/about']) {
+  for (const route of ['/', '/explore', '/collections', '/journeys', '/upload', '/library', '/about', '/random']) {
     await phone.goto(`${URL}#${route}`, { waitUntil: 'domcontentloaded' });
     await phone.waitForTimeout(1500);
     const overflow = await phone.evaluate(
