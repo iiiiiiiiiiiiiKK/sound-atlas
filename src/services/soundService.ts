@@ -14,6 +14,11 @@ export interface MergedQuery extends SoundQuery {
   minDuration?: number;
   onlyPrecise?: boolean;
   signal?: AbortSignal;
+  /**
+   * Called once with the bundled results as soon as they are ready, before the live
+   * provider answers. Lets the map paint immediately instead of waiting on the network.
+   */
+  onPartial?: (result: SoundQueryResult) => void;
 }
 
 function matches(sound: Sound, query: MergedQuery): boolean {
@@ -26,6 +31,37 @@ function matches(sound: Sound, query: MergedQuery): boolean {
     if (!haystack.includes(needle)) return false;
   }
   return true;
+}
+
+/** De-duplicate, filter, sort and page a set of collected sounds. */
+function finalise(
+  collected: Sound[],
+  query: MergedQuery,
+  limit: number,
+  total: number | null,
+): SoundQueryResult {
+  const seen = new Set<string>();
+  const unique: Sound[] = [];
+  for (const sound of collected) {
+    if (seen.has(sound.id)) continue;
+    if (!sound.place) continue;
+    seen.add(sound.id);
+    unique.push(sound);
+  }
+
+  const sorted = unique.filter((sound) => matches(sound, query)).sort((a, b) => {
+    const precisionRank = (sound: Sound) => (sound.place?.precision === 'exact' ? 0 : 1);
+    const delta = precisionRank(a) - precisionRank(b);
+    if (delta !== 0) return delta;
+    return (a.title || '').localeCompare(b.title || '');
+  });
+
+  return {
+    items: sorted.slice(0, limit),
+    total: total == null ? null : Math.max(sorted.length, Math.min(total, Math.max(sorted.length, limit))),
+    partial: false,
+    errors: [],
+  };
 }
 
 export async function searchSounds(query: MergedQuery = {}): Promise<SoundQueryResult> {
@@ -44,6 +80,12 @@ export async function searchSounds(query: MergedQuery = {}): Promise<SoundQueryR
       const scoped = query.bbox ? commons.inBoundingBox(entries, query.bbox) : entries;
       collected.push(...scoped);
       total = (total ?? 0) + scoped.length;
+
+      // Paint these immediately: they are local data, and the live provider can be slow.
+      if (query.onPartial) {
+        const provisional = finalise(collected, query, limit, total);
+        if (provisional.items.length) query.onPartial(provisional);
+      }
     } catch (error) {
       partial = true;
       total = null;
@@ -71,26 +113,10 @@ export async function searchSounds(query: MergedQuery = {}): Promise<SoundQueryR
     }
   }
 
-  const seen = new Set<string>();
-  const unique: Sound[] = [];
-  for (const sound of collected) {
-    if (seen.has(sound.id)) continue;
-    if (!sound.place) continue;
-    seen.add(sound.id);
-    unique.push(sound);
-  }
-
-  const filtered = unique.filter((sound) => matches(sound, query));
-  const sorted = filtered.sort((a, b) => {
-    const precisionRank = (sound: Sound) => (sound.place?.precision === 'exact' ? 0 : 1);
-    const delta = precisionRank(a) - precisionRank(b);
-    if (delta !== 0) return delta;
-    return (a.title || '').localeCompare(b.title || '');
-  });
-
+  const provisional = finalise(collected, query, limit, total);
   return {
-    items: sorted.slice(0, limit),
-    total: total == null ? null : Math.max(sorted.length, Math.min(total, Math.max(sorted.length, limit))),
+    items: provisional.items,
+    total: provisional.total,
     partial,
     errors,
   };

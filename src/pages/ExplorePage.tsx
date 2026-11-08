@@ -91,6 +91,12 @@ export function ExplorePage() {
           minDuration: filters.minDuration || undefined,
           onlyPrecise: filters.onlyPrecise || undefined,
           limit: 150,
+          // The bundled catalogue answers instantly; show it before the live provider does.
+          onPartial: (partial) => {
+            if (seq !== requestSeq.current) return;
+            setSounds(partial.items);
+            setTotal(partial.total);
+          },
         });
         if (seq !== requestSeq.current) return;
         setSounds(result.items);

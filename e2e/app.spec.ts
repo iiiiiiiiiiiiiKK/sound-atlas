@@ -57,16 +57,16 @@ test.describe('shell and navigation', () => {
   });
 
   test('a deep link to a sound page resolves after a hard reload', async ({ page }) => {
-    await page.goto('/#/explore');
+    await openRoute(page, '/explore', 'Explore the sound map');
     // Take the first real sound link from a card, then reload that URL directly.
     const firstCard = page.locator('a[href^="#/sound/"]').first();
-    await expect(firstCard).toBeVisible({ timeout: 30_000 });
+    await expect(firstCard).toBeVisible({ timeout: 45_000 });
     const href = await firstCard.getAttribute('href');
     expect(href).toBeTruthy();
 
     await page.goto(`/${href}`);
     await page.reload();
-    await expect(page.getByText('Open the original file')).toBeVisible({ timeout: 30_000 });
+    await expect(page.getByText('Open the original file')).toBeVisible({ timeout: 45_000 });
   });
 
   test('unknown routes show the 404 page', async ({ page }) => {
@@ -293,7 +293,7 @@ test.describe('mobile', () => {
       await expect(menu.getByRole('link', { name: label })).toBeVisible();
     }
     await menu.getByRole('link', { name: 'Explore map' }).click();
-    await expect(page.getByRole('heading', { name: 'Explore the sound map' })).toBeVisible();
+    await expect(page.getByRole('heading', { name: 'Explore the sound map' })).toBeVisible({ timeout: 45_000 });
   });
 
   test('the explore view defaults to the list on a narrow screen', async ({ page }) => {
