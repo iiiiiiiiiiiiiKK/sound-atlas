@@ -445,7 +445,8 @@ credential. Run `npm run typecheck && npm test && npm run build` before opening 
 
 ## Licence · 许可证
 
-Code: **MIT** — see [LICENSE](LICENSE).
+Code: **MIT** — see [LICENSE](LICENSE). Everything the MIT licence does not cover — the
+recordings, the basemap and third-party data — is spelled out in [NOTICE.md](NOTICE.md).
 
 Audio: **not** covered by the MIT licence. Every recording remains the property of its
 recordist, under the licence shown on its own record and original archive page. Attribution is
