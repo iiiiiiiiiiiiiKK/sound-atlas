@@ -213,11 +213,36 @@ export function SoundMap({
         title: bucket.length > 1 ? `${bucket.length} sounds` : first.title,
         riseOnHover: true,
         keyboard: true,
+        bubblingMouseEvents: false,
       });
-      marker.on('click', () => selectRef.current(bucket.length > 1 ? bucket[0] : first));
+      const chosen = bucket.length > 1 ? bucket[0] : first;
+
+      // One selection path, deduplicated: Leaflet's own click plus a direct DOM click, so
+      // a tap that the drag handler swallows still opens the sound.
+      let lastSelect = 0;
+      const select = () => {
+        const now = Date.now();
+        if (now - lastSelect < 250) return;
+        lastSelect = now;
+        selectRef.current(chosen);
+      };
+      marker.on('click', select);
       marker.addTo(layer);
+
       const element = marker.getElement();
-      if (element) markersRef.current.set(first.id, { marker, element });
+      if (element) {
+        element.setAttribute('role', 'button');
+        element.setAttribute('tabindex', '0');
+        element.setAttribute('aria-label', chosen.title);
+        element.addEventListener('click', select);
+        element.addEventListener('keydown', (event) => {
+          if (event.key === 'Enter' || event.key === ' ') {
+            event.preventDefault();
+            select();
+          }
+        });
+        markersRef.current.set(first.id, { marker, element });
+      }
       for (const extra of bucket.slice(1)) {
         markersRef.current.set(extra.id, { marker, element: element ?? document.createElement('span') });
       }
