@@ -312,6 +312,27 @@ check. Latest run against <https://iiiiiiiiiiiiikk.github.io/sound-atlas/>:
 | No horizontal overflow on `/`, `/explore`, `/collections`, `/journeys`, `/upload`, `/library`, `/about`, `/random` | 0 px each |
 | Mobile menu destinations | 6 links |
 
+### Feature audit (the deployed site)
+
+`npm run verify:features` exercises the deeper flows the smoke audit does not, against
+the live URL:
+
+```
+9/9 checks passed.
+```
+
+| Check | Observed |
+| --- | --- |
+| Collections resolve real counts from the providers | 6 collections; first is `Rain · 10 sounds · 31:13` |
+| Collection detail lists its sounds | `Rain · 14 sounds` |
+| Random sound returns a real, credited recording | a Wikimedia record with author and licence |
+| Library tabs all render | 5 tabs navigated |
+| Library export downloads JSON | `sound-atlas-2026-11-08.json` |
+| Ambient mode opens | pass |
+| Ambient mode closes on Escape | pass |
+| Mobile marker tap opens the detail sheet | pass |
+| No uncaught page errors across the run | pass |
+
 ### 中文测试说明
 
 单元测试 42 个全部通过，覆盖格式化、双语词典、本地存储（含导入不覆盖、坏文件被拒绝）、

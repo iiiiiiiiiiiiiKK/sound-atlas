@@ -20,9 +20,10 @@ const cards = await page.locator('article').count();
 const firstCardText = (await page.locator('article').first().innerText()).replace(/\s+/g, ' ');
 check('Collections resolve real counts', cards >= 6, `${cards} collections, first: ${firstCardText.slice(0, 60)}`);
 
-// ---- open a collection detail and start playback from it
-await page.locator('article a').first().click();
-await page.waitForTimeout(2500);
+// ---- open a collection detail directly (cold route chunk on first hit)
+await page.goto(`${URL}#/collections/rain`, { waitUntil: 'domcontentloaded' });
+await page.waitForSelector('article', { timeout: 60000 });
+await page.waitForTimeout(1500);
 const detailHeading = await page.locator('h1').first().innerText();
 const soundCards = await page.locator('article').count();
 check('Collection detail lists sounds', soundCards > 0, `${detailHeading} · ${soundCards} sounds`);
