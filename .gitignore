@@ -1,0 +1,41 @@
+# dependencies
+node_modules/
+.pnpm-store/
+
+# build output
+dist/
+dist-ssr/
+*.local
+
+# test and tooling artefacts
+test-results/
+playwright-report/
+blob-report/
+coverage/
+*.tsbuildinfo
+.vite/
+.wrangler/
+
+# local environment
+.env
+.env.*
+!.env.example
+.dev.vars
+
+# editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# logs
+*.log
+npm-debug.log*
+
+# Never commit a user's own recordings or exports
+recordings/
+*.wav
+*.m4a
+*.webm
+sound-atlas-*.json
