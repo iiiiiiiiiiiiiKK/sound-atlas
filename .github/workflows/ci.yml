@@ -1,0 +1,40 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    name: Typecheck, test, build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+      - run: npm run typecheck
+      - run: npm test
+      - run: npm run build
+
+      - name: Upload the built site for inspection
+        uses: actions/upload-artifact@v4
+        with:
+          name: dist
+          path: dist
+          retention-days: 7
+
+# Deployment is not done here on purpose.
+# GitHub Pages for this repository is served from the `gh-pages` branch, which is
+# published by `npm run deploy:pages` (scripts/deploy-pages.mjs) using the Git data API.
+# This workflow only proves that the committed source typechecks, passes its tests and
+# builds, so a red run always means the code is broken rather than a Pages race.

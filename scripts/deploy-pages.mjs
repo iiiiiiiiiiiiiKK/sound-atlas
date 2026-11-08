@@ -29,21 +29,38 @@ const headers = {
   'Content-Type': 'application/json',
 };
 
-async function call(path, init = {}, { allow404 = false } = {}) {
-  const response = await fetch(`${API}${path}`, { ...init, headers: { ...headers, ...(init.headers || {}) } });
-  const text = await response.text();
-  let parsed = null;
-  try {
-    parsed = text ? JSON.parse(text) : null;
-  } catch {
-    parsed = text;
+async function call(path, init = {}, { allow404 = false, retries = 4 } = {}) {
+  let lastError = null;
+  for (let attempt = 0; attempt < retries; attempt += 1) {
+    try {
+      const response = await fetch(`${API}${path}`, { ...init, headers: { ...headers, ...(init.headers || {}) } });
+      const text = await response.text();
+      let parsed = null;
+      try {
+        parsed = text ? JSON.parse(text) : null;
+      } catch {
+        parsed = text;
+      }
+      if (response.status === 404 && allow404) return null;
+      if (!response.ok) {
+        const detail = typeof parsed === 'string' ? parsed : JSON.stringify(parsed);
+        // A 5xx or rate limit is worth another try; a 4xx is not.
+        if (response.status >= 500 || response.status === 429) {
+          lastError = new Error(`${init.method || 'GET'} ${path} → ${response.status}: ${detail}`);
+          await new Promise((resolve) => setTimeout(resolve, 1500 * (attempt + 1)));
+          continue;
+        }
+        throw new Error(`${init.method || 'GET'} ${path} → ${response.status}: ${detail}`);
+      }
+      return parsed;
+    } catch (error) {
+      lastError = error;
+      if (error instanceof Error && error.message.includes('→ 4')) throw error;
+      if (attempt === retries - 1) break;
+      await new Promise((resolve) => setTimeout(resolve, 1500 * (attempt + 1)));
+    }
   }
-  if (response.status === 404 && allow404) return null;
-  if (!response.ok) {
-    const detail = typeof parsed === 'string' ? parsed : JSON.stringify(parsed);
-    throw new Error(`${init.method || 'GET'} ${path} → ${response.status}: ${detail}`);
-  }
-  return parsed;
+  throw lastError ?? new Error(`${path} failed`);
 }
 
 async function collect(dir) {
@@ -122,11 +139,17 @@ async function main() {
   // 5. Point Pages at the branch.
   const pages = await call(`/repos/${OWNER}/${REPO}/pages`, {}, { allow404: true });
   if (!pages) {
-    await call(`/repos/${OWNER}/${REPO}/pages`, {
-      method: 'POST',
-      body: JSON.stringify({ source: { branch: BRANCH, path: '/' } }),
-    });
-    console.log('Pages site created from the gh-pages branch.');
+    try {
+      await call(`/repos/${OWNER}/${REPO}/pages`, {
+        method: 'POST',
+        body: JSON.stringify({ source: { branch: BRANCH, path: '/' } }),
+      });
+      console.log('Pages site created from the gh-pages branch.');
+    } catch (error) {
+      // 409 means the site already exists (often created by the first push), which is fine.
+      if (!String(error.message).includes('409')) throw error;
+      console.log('Pages was already enabled; continuing.');
+    }
   } else if (pages.source?.branch !== BRANCH) {
     await call(`/repos/${OWNER}/${REPO}/pages`, {
       method: 'PUT',
@@ -139,7 +162,9 @@ async function main() {
     console.log('Pages already on this branch; requested a rebuild.');
   }
 
-  console.log(`\nSite URL: https://${OWNER.toLowerCase()}.github.io/${REPO}/`);
+  const final = await call(`/repos/${OWNER}/${REPO}/pages`, {}, { allow404: true });
+  console.log(`\nSite URL: ${final?.html_url ?? `https://${OWNER.toLowerCase()}.github.io/${REPO}/`}`);
+  console.log(`Status: ${final?.status ?? 'unknown'}`);
 }
 
 await main();

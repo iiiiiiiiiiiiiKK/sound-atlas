@@ -125,17 +125,19 @@ test.describe('explore map', () => {
       }),
     );
 
-    await page.goto('/#/explore');
+    await openRoute(page, '/explore', 'Explore the sound map');
     const input = page.getByPlaceholder('City, country or place name');
     await input.fill('Berlin');
 
     const suggestion = page.getByRole('listitem').filter({ hasText: 'Berlin' }).first();
-    await expect(suggestion).toBeVisible({ timeout: 20_000 });
+    await expect(suggestion).toBeVisible({ timeout: 25_000 });
     await suggestion.click();
 
     await expect(input).toHaveValue('Berlin');
-    // Anchoring the search to the place narrows the result set to that window.
-    await expect(page.getByText(/Showing \d+/)).toBeVisible({ timeout: 30_000 });
+    // Anchoring the search to the place narrows the result set to that window, and the
+    // heading proves the page is still mounted (not a navigation or a crash).
+    await expect(page.getByRole('heading', { name: 'Explore the sound map' })).toBeVisible();
+    await expect(page.getByText(/Showing \d+/)).toBeVisible({ timeout: 45_000 });
     await expect(page.getByText('Berlin').first()).toBeVisible();
   });
 
@@ -165,9 +167,9 @@ test.describe('explore map', () => {
 
 test.describe('playback', () => {
   test('opening a sound and pressing play requests a real remote audio file', async ({ page }) => {
-    await page.goto('/#/explore');
+    await openRoute(page, '/explore', 'Explore the sound map');
     const firstCard = page.locator('a[href^="#/sound/"]').first();
-    await expect(firstCard).toBeVisible({ timeout: 30_000 });
+    await expect(firstCard).toBeVisible({ timeout: 45_000 });
     await firstCard.click();
 
     const main = page.getByRole('main');
@@ -186,9 +188,9 @@ test.describe('playback', () => {
   });
 
   test('the licence and author are always shown with the player', async ({ page }) => {
-    await page.goto('/#/explore');
+    await openRoute(page, '/explore', 'Explore the sound map');
     const firstCard = page.locator('a[href^="#/sound/"]').first();
-    await expect(firstCard).toBeVisible({ timeout: 30_000 });
+    await expect(firstCard).toBeVisible({ timeout: 45_000 });
     await firstCard.click();
     const main = page.getByRole('main');
     await expect(main.getByText('Recorded by', { exact: true })).toBeVisible();

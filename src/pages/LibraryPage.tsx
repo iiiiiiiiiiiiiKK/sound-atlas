@@ -1,5 +1,5 @@
-﻿/**
- * Library 鈥?everything the user owns, all of it local.
+/**
+ * Library —everything the user owns, all of it local.
  *
  * Tabs: saved sounds, recent plays, sound maps, own recordings, journeys. Export and
  * import are here so a user can move their data between browsers.
@@ -45,7 +45,7 @@ function clipToSound(clip: storage.ClipRow): Sound {
         : null,
     recordedAt: clip.recordedAt,
     canAnalyse: true,
-    attribution: `${clip.title} 鈥?your own recording`,
+    attribution: `${clip.title} —your own recording`,
   };
 }
 
@@ -243,7 +243,7 @@ export function LibraryPage() {
                       {map.title}
                     </Link>
                     <div className="mt-0.5 text-[11px]" style={{ color: 'var(--text-mute)' }}>
-                      {t('maps.items', { n: map.itemIds.length })} 路 {relativeTime(map.updatedAt, lang)}
+                      {t('maps.items', { n: map.itemIds.length })} · {relativeTime(map.updatedAt, lang)}
                     </div>
                   </div>
                   <button
@@ -287,7 +287,7 @@ export function LibraryPage() {
                   <div className="flex-1">
                     <SoundCard sound={sound} queue={clips.map(clipToSound)} compact />
                     <div className="mt-0.5 pl-12 text-[10px]" style={{ color: 'var(--text-mute)' }}>
-                      {clip.placeName || t('common.unknown')} 路 {formatDuration(clip.durationSec, lang)} 路{' '}
+                      {clip.placeName || t('common.unknown')} · {formatDuration(clip.durationSec, lang)} ·{' '}
                       {clip.publicConsent ? t('upload.consent') : t('upload.private')}
                     </div>
                   </div>

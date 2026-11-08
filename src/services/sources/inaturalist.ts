@@ -1,5 +1,5 @@
 /**
- * iNaturalist adapter 鈥?wildlife sound observations.
+ * iNaturalist adapter —wildlife sound observations.
  *
  * Only openly licensed, research-grade observations that carry coordinates and a
  * playable sound file are surfaced. iNaturalist audio is served from
@@ -83,7 +83,7 @@ function toSound(observation: InatObservation): Sound | null {
   return {
     id: `inat-${observation.id}`,
     source: 'inaturalist',
-    title: `${species} 鈥?${placeLabel}`.slice(0, 140),
+    title: `${species} —${placeLabel}`.slice(0, 140),
     description: observation.taxon?.name
       ? `Field recording of ${observation.taxon.name}${
           observation.observed_on ? `, observed on ${observation.observed_on}` : ''

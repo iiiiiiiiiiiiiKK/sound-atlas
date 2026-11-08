@@ -84,7 +84,7 @@ function LanguageToggle() {
       aria-label={t('nav.language')}
     >
       <Languages size={13} />
-      {lang === 'en' ? 'EN' : '涓枃'}
+      {lang === 'en' ? 'EN' : '中文'}
     </button>
   );
 }
@@ -246,9 +246,9 @@ function Footer() {
       <div className="mx-auto flex max-w-[1400px] flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
         <div className="flex flex-wrap items-center gap-x-3 gap-y-1">
           <span>
-            {t('brand.name')} 路 {t('brand.tagline')}
+            {t('brand.name')} · {t('brand.tagline')}
           </span>
-          <span className="hidden sm:inline">路</span>
+          <span className="hidden sm:inline">·</span>
           <span>{t('about.mapData')}</span>
         </div>
         <div className="flex items-center gap-3">

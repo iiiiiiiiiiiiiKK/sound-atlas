@@ -1,4 +1,4 @@
-﻿/** About 鈥?sources, licences, privacy and the honest list of limitations. */
+/** About —sources, licences, privacy and the honest list of limitations. */
 import { useEffect, useState } from 'react';
 import { Code2, ExternalLink } from 'lucide-react';
 import { useT } from '@/stores/uiStore';
@@ -42,7 +42,7 @@ export function AboutPage() {
         </div>
         {meta ? (
           <p className="mt-2 font-mono text-[10.5px]" style={{ color: 'var(--text-mute)' }}>
-            Commons catalogue: {meta.count} records 路 built {new Date(meta.generatedAt).toISOString().slice(0, 10)}
+            Commons catalogue: {meta.count} records · built {new Date(meta.generatedAt).toISOString().slice(0, 10)}
           </p>
         ) : failed ? (
           <p className="mt-2 text-[10.5px]" style={{ color: 'var(--warm)' }}>

@@ -1,5 +1,5 @@
-﻿/**
- * Explore 鈥?the core screen.
+/**
+ * Explore —the core screen.
  *
  * Layout: map (or list) plus a filter rail and a result list. Search resolves a place
  * name to a viewport through Photon, then asks every provider for the sounds inside that
@@ -67,9 +67,19 @@ export function ExplorePage() {
   const pendingBBox = useRef<[number, number, number, number] | null>(null);
   const currentId = usePlayer((state) => state.queue[state.index]?.sound.id ?? null);
 
-  /** Run a search for a bounding box (or the whole world when omitted). */
+  const requestSeq = useRef(0);
+
+  /**
+   * Run a search for a bounding box (or the whole world when omitted).
+   *
+   * Each call takes a sequence number: a slow response that arrives after a newer request
+   * has started is discarded instead of overwriting fresher results. Previous results stay
+   * on screen while a new search runs, so the page never blanks out between filters.
+   */
   const runSearch = useCallback(
     async (bbox?: [number, number, number, number], placeName?: string) => {
+      requestSeq.current += 1;
+      const seq = requestSeq.current;
       setSearching(true);
       setErrors([]);
       try {
@@ -82,17 +92,19 @@ export function ExplorePage() {
           onlyPrecise: filters.onlyPrecise || undefined,
           limit: 150,
         });
+        if (seq !== requestSeq.current) return;
         setSounds(result.items);
         setTotal(result.total);
         setPartial(result.partial);
         setErrors(result.errors);
       } catch (error) {
+        if (seq !== requestSeq.current) return;
         setSounds([]);
         setTotal(null);
         setPartial(false);
         setErrors([error instanceof Error ? error.message : 'search failed']);
       } finally {
-        setSearching(false);
+        if (seq === requestSeq.current) setSearching(false);
       }
     },
     [filters],
@@ -190,8 +202,15 @@ export function ExplorePage() {
     void runSearch(bbox);
   };
 
-  const onBoundsChange = useCallback((bbox: [number, number, number, number]) => {
+  /**
+   * Track where the user actually dragged the map, so "search this area" reflects the
+   * live viewport instead of the last programmatic jump.
+   */
+  const onBoundsChange = useCallback((bbox: [number, number, number, number], zoom: number) => {
     pendingBBox.current = bbox;
+    setViewport((current) =>
+      current.zoom === zoom ? current : { ...current, zoom },
+    );
   }, []);
 
   const activeFilterCount =
@@ -403,7 +422,7 @@ export function ExplorePage() {
                     }}
                     aria-pressed={filters.minDuration === seconds}
                   >
-                    {seconds === 0 ? t('explore.durationAny') : `鈮?${seconds}s`}
+                    {seconds === 0 ? t('explore.durationAny') : `≥${seconds}s`}
                   </button>
                 ))}
               </div>
@@ -438,17 +457,19 @@ export function ExplorePage() {
 
       {/* --------------------------------------------------------- result meta */}
       <div className="flex flex-wrap items-center gap-x-3 gap-y-1 text-[11.5px]" style={{ color: 'var(--text-mute)' }}>
+        {/* The count stays visible while a new search runs, so the page never looks empty. */}
+        {sounds.length > 0 ? (
+          <span>
+            {total != null ? t('explore.showing', { shown: sounds.length, total }) : t('explore.showingApprox', { shown: sounds.length })}
+          </span>
+        ) : null}
         {searching ? (
           <span className="inline-flex items-center gap-1.5">
             <Loader2 size={12} className="animate-spin" />
             {t('explore.loading')}
           </span>
-        ) : (
-          <span>
-            {total != null ? t('explore.showing', { shown: sounds.length, total }) : t('explore.showingApprox', { shown: sounds.length })}
-          </span>
-        )}
-        {partial ? <span style={{ color: 'var(--warm)' }}>路 {t('explore.partial')}</span> : null}
+        ) : null}
+        {partial ? <span style={{ color: 'var(--warm)' }}>· {t('explore.partial')}</span> : null}
         {errors.length ? (
           <button
             type="button"
@@ -459,7 +480,7 @@ export function ExplorePage() {
             {t('explore.retry')}
           </button>
         ) : null}
-        {viewport.zoom < MIN_SEARCH_ZOOM ? <span>路 {t('explore.zoomHint')}</span> : null}
+        {viewport.zoom < MIN_SEARCH_ZOOM ? <span>· {t('explore.zoomHint')}</span> : null}
       </div>
 
       {/* -------------------------------------------------------------- body */}
